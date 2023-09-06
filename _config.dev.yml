@@ -7,7 +7,7 @@ analytics:
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
+    shortname            : "lsainz-dev"
 
 sass:
-  style: expanded
+  style: compact
