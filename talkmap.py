@@ -11,23 +11,24 @@
 #
 # Requires: glob, getorg, geopy
 
-import glob
-import getorg
-from geopy import Nominatim
+import glob # Se utiliza para buscar archibos md en el directorio actual
+import getorg # Genera mapas interactivos
+from geopy import Nominatim # Geocodificación de las ubicaciones definidas en los archivos Markdown
 
-g = glob.glob("*.md")
+g = glob.glob("*.md") # Buscar archivos con la extensión .md 
 
 
-geocoder = Nominatim()
+geocoder = Nominatim() # Localiza las ubicaciones
+# Almacena información sobre las ubicaciones de charlas
 location_dict = {}
 location = ""
 permalink = ""
 title = ""
 
-
+# Busca cada archivo .md y los abre en modo lectura ('r') 
 for file in g:
     with open(file, 'r') as f:
-        lines = f.read()
+        lines = f.read() # Almacena contenido en lines
         if lines.find('location: "') > 1:
             loc_start = lines.find('location: "') + 11
             lines_trim = lines[loc_start:]
