@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Laura Sainz Villalba"
   avatar           : "lala.jpg"
-  bio              : "La hedmana más bonita. Cuchi cuchi"
+  bio              : "<div style="text-align: justify"> Descripción. Prueba general para ver si el párrafo está justificado </div>"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
