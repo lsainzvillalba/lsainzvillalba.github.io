@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Laura Sainz Villalba" [//]: <> (Forma parte de la página principal)
 excerpt: "About me"
 author_profile: true
 redirect_from: 
