@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Laura Sainz Villalba"
 description              : &description "personal description"
 url                      : https://lsainzvillalba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Laura Sainz Villalba"
   avatar           : "lala.jpg"
-  bio              : "Descripción. Prueba general para ver si el párrafo está justificado."
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Neurosurgeon MD FEBNS <br> PhD candidate in computational Neuroscience <br> Physics Bsc"
+  location         : "Zurich, Switzerland"
+  employer         : "ETH Zurich"
+  pubmed           : # ""
+  googlescholar    : "https://scholar.google.com.mx/citations?user=qEVxkM4AAAAJ&hl=es&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Laura-Sainz-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
