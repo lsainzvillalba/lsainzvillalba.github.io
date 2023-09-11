@@ -9,10 +9,10 @@ redirect_from:
 ---
 [//]: <> (Forma parte de la página principal)
 
-##Hello,
+Hello,
 
-welcome to my personal webpage. I am a certified (FEBNS) Neurosurgeon, passionate about keyhole and awake surgical techniques, neurooncology,functional and pediatric Neurosurgery as well as Cognitive Neuroscience research to provide breakthroughs in understanding healthy and pathological states of the brain. <br>
-I completed my Medicine studies at the Complutense University in 2012 and then became a fully trained and certified Neurosurgeon at the Jiménez Díaz Hospital in Madrid,Spain while completing a degree in Theoretical Physics at the same university.<br> 
-I am currently finishing a PhD in Computational Neuroscience at Institute of Neuroinformatics (ETH Zurich). 
+<div style="text-align: justify"> welcome to my personal webpage. I am a certified (FEBNS) Neurosurgeon, passionate about keyhole and awake surgical techniques, neurooncology,functional and pediatric Neurosurgery as well as Cognitive Neuroscience research to provide breakthroughs in understanding healthy and pathological states of the brain. </div>
+<div style="text-align: justify"> I completed my Medicine studies at the Complutense University in 2012 and then became a fully trained and certified Neurosurgeon at the Jiménez Díaz Hospital in Madrid,Spain while completing a degree in Theoretical Physics at the same university.</div>
+<div style="text-align: justify"> I am currently finishing a PhD in Computational Neuroscience at Institute of Neuroinformatics (ETH Zurich). </div> 
 
 My research interests include 
