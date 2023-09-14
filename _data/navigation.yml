@@ -5,10 +5,6 @@ main:
     
   - title: "Expertise"
     url: /talks/    
-    subfolderitems:
-          - name: "Neurosurgery"
-            url: /cv/
-            weight: 2
 
   - title: "Resources"
     url: /publications/ 
