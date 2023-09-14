@@ -1,31 +1,34 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /coming_soon/
     
   - title: "Neurosurgery"
-    url: /talks/    
+    url: /coming_soon/    
     
   - title: "Neuroscience"
-    url: /talks/   
+    url: /coming_soon/   
 
   - title: "Resources"
-    url: /publications/ 
+    url: /coming_soon/ 
     
   - title: "How to"
-    url: /year-archive/
+    url: /coming_soon/
     
   - title: "Curriculum"
-    url: /cv/
+    url: /coming_soon/
     
 
 # main:
   #- title: "Publications"
    # url: /publications/
 
-  #- title: "Expertise"
+  #- title: "Neurosurgery"
    # url: /talks/    
-
+   
+  # - title: "Neuroscience"
+      # url: /talks/  
+    
   #- title: "Resources"
    # url: /publications/ 
     
