@@ -2,9 +2,13 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
   - title: "Expertise"
     url: /talks/    
+    subfolderitems:
+          - name: "Neurosurgery"
+            url: /cv/
+            weight: 2
 
   - title: "Resources"
     url: /publications/ 
@@ -17,3 +21,22 @@ main:
     
   - title: "Contact"
     url: /markdown/
+
+# main:
+  #- title: "Publications"
+   # url: /publications/
+
+  #- title: "Expertise"
+   # url: /talks/    
+
+  #- title: "Resources"
+   # url: /publications/ 
+    
+  #- title: "How to"
+   # url: /year-archive/
+    
+  #- title: "Curriculum"
+   # url: /cv/
+    
+  #- title: "Contact"
+   # url: /markdown/
