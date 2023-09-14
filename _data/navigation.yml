@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Expertise"
+  - title: "Neurosurgery"
     url: /talks/    
+    
+  - title: "Neuroscience"
+    url: /talks/   
 
   - title: "Resources"
     url: /publications/ 
@@ -15,8 +18,6 @@ main:
   - title: "Curriculum"
     url: /cv/
     
-  - title: "Contact"
-    url: /markdown/
 
 # main:
   #- title: "Publications"
