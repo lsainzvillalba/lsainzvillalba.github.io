@@ -33,8 +33,8 @@ redirect_from:
 
 ## Publications
 ======
-* “Subarachnomegaly—venous congestion of infancy.” Sainz, LV, Schuhmann, MU. Nov 2021. Childs Nerv Syst. DOI : 10.1007/s00381-021-05425-z
-  https://link.springer.com/article/10.1007/s00381-021-05328-z
+* “Subarachnomegaly—venous congestion of infancy.” Sainz, LV, Schuhmann, MU. Nov 2021. Childs Nerv Syst. 
+  [DOI : 10.1007/s00381-021-05425-z](https://link.springer.com/article/10.1007/s00381-021-05328-z)
   
 ## Teaching
 ======
