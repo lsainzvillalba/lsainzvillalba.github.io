@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 ======
+* Postgraduate training course Pediatric Neurosurgery ESPN, 2023
 * Fellow of the European Board of Neurological Surgery (FEBNS), 2019
 * Neurosurgery Training Residency, Fundación Jiménez Díaz Hospital, Madrid-Spain, 2013-2018
 * Physics degree GPA (3.01/4), Complutense University, Madrid-Spain, 2009-2018
@@ -20,7 +21,7 @@ redirect_from:
 
 ## Professional Appointments
 ======
-* PhD candidate Computational Neuroscience (Scientific fellow), Institute of Neuroinformatics, ETH Zurich, Nov 2018 - Current
+* PhD candidate Computational Neuroscience, Institute of Neuroinformatics, ETH Zurich, Nov 2018 - Current
 * Neurosurgery Staff Consultant, Quirón Salud Group, May-April 2018
 * Neurosurgery Resident, Fundación Jiménez Díaz Hospital, May 2013 - May 2018
 * Ciberer Fellow, Assistant Researcher in Neurobiology Lab, Sep 2012 - May 2013
