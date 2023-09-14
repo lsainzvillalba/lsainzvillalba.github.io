@@ -11,8 +11,8 @@ redirect_from:
 
 Hello,
 
-<div style="text-align: justify"> welcome to my personal webpage. I am a certified (FEBNS) Neurosurgeon, passionate about Keyhole and Awake surgical techniques, Neurooncology, Functional and Pediatric Neurosurgery as well as Cognitive Neuroscience research to provide breakthroughs in understanding healthy and pathological states of the brain. </div>
-<div style="text-align: justify"> I completed my Medicine studies at the Complutense University in 2012 and then became a fully trained and certified Neurosurgeon at the Jiménez Díaz Hospital in Madrid (Spain), while completing a degree in Theoretical Physics at the same university.</div>
+<div style="text-align: justify"> welcome to my personal webpage. I am a certified (FEBNS) Neurosurgeon, passionate about Keyhole and Awake surgical techniques, Neurooncology, Functional and Pediatric Neurosurgery as well as Cognitive Neuroscience research to provide breakthroughs in understanding healthy and pathological states of the brain. </div> <br>
+<div style="text-align: justify"> I completed my Medicine studies at the Complutense University in 2012 and then became a fully trained and certified Neurosurgeon at the Jiménez Díaz Hospital in Madrid (Spain), while completing a degree in Theoretical Physics at the same university.</div> <br>
 <div style="text-align: justify"> I am currently finishing a PhD in Computational Neuroscience at the Institute of Neuroinformatics (ETH Zurich). </div> 
-
+<br>
 My research interests include 
