@@ -46,7 +46,7 @@ redirect_from:
 ## Research and Professional Interests
 ======
 * Awake Neurosurgery and Brain mapping, Neuro-oncology, Pediatric and Functional Neurosurgery, Minimally invasive Keyhole Neurosurgery
-* Computational and Cognitive Neuroscience: Population codes, Categorization, Structure learning and abstraction, Information Theory.
+* Computational and Cognitive Neuroscience: Population codes, Categorization, Structure learning and abstraction, Dynamical systems, Information Theory.
 * Cognitive and Motor Rehabilitation, Neuromodulation and stimulation, Brain-Machine Interfaces, Intelligent Prosthetics
 
 ## Programming
