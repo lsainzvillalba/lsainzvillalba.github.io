@@ -5,7 +5,7 @@ permalink: /publication/subarachnomegaly
 excerpt: 'Review of Subarachnomegaly and evidence supporting an impaired cerebrovenous system.'
 date: 2009-10-01
 venue: 'Childs Nervous System'
-paperurl: 'http://lsainzvillalba.github.io/files/paper1.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s00381-021-05328-z'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 paperurl: 'https://link.springer.com/article/10.1007/s00381-021-05328-z'
