@@ -36,12 +36,18 @@ redirect_from:
 ======
 * “Subarachnomegaly—venous congestion of infancy.” Sainz, LV, Schuhmann, MU. Nov 2021. Childs Nerv Syst. 
   [DOI : 10.1007/s00381-021-05425-z](https://link.springer.com/article/10.1007/s00381-021-05328-z)
+* “Cerebro-venous hypertension: a frequent cause of so-called “external hydrocephalus” in infants” Sainz, LV, Zipfel, J, Kerscher SR, Weichselbaum A,Bevot A, Schuhmann, MU. Nov 2018. Childs Nerv Syst. [DOI: 1 10.1007/s00381-018-4007-3](https://link.springer.com/article/10.1007/s00381-018-4007-3)
+* “Oscillatory Brain Activity in Morphological Parsing of Complex Words: Information Gain from Stems and Suffixes” Sainz, LV, Sainz JS, Lazaro M, Oct 2018. J Neurol Neurosci [DOI:10.21767/2171-6625.1000271](https://www.researchgate.net/publication/328743209_Oscillatory_Brain_Activity_in_Morphological_Parsing_of_Complex_Words_Information_Gain_from_Stems_and_Suffixes)
+* “Chronic overdrainage syndrome: Pathophysiological insights based on ICP analysis” Sainz, LV, Hockel, K, Schuhmann, MU. October 2017. Childs Nerv Syst. [DOI: 10.1007/s00381-017-3650-4](https://link.springer.com/article/10.1007/s00381-017-3650-4)
+* ISSN neurosurgical approaches, “Transpalpebral approach” Sainz L.V, Abarca-Olivas J, González-López P. [https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/](https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/)
   
 ## Teaching
 ======
-* ETH Zurich
-* UCM
+* Teaching assitant, 227-0421-00L  Learning in Deep Artificial and Biological Neuronal Networks, ETH Zurich, 2019-Current
+* Teaching assistant, 227-0395-00L Neural Systems, ETH Zurich, 2021-Current
 * Makerspace manager - Student Project House, ETH Zurich, 2022-Current
+* Mathematica Certified Instructor - Wolfram Language, 2014-2015
+* Lecturer -  Clinical Neurophysiology Course, Language Disorders Master, Complutense University of Madrid, 2013-2014
 
 ## Research and Professional Interests
 ======
@@ -65,4 +71,8 @@ redirect_from:
 
 ## Skills
 ======
-* asdf
+* MS office, LaTEX
+* Graphical design: Photoshop, Inkscape
+* Experimental design and Statistical analysis
+* Neural data analysis: Ca+2 imaging, EEG, functional MRI
+* Prototype development: Raspberry Pi & Arduino, 3D design (Fusion 360), 3D Printing
