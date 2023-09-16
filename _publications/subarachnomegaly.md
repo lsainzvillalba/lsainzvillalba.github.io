@@ -3,7 +3,7 @@ title: "Subarachnomegaly - venous congestion of infancy"
 collection: publications
 permalink: /publication/subarachnomegaly
 excerpt: 'Review of Subarachnomegaly and evidence supporting an impaired cerebrovenous system'
-date: Nov 2021
+date: 2021-10-01
 venue: 'Childs Nervous System'
 paperurl: 'https://link.springer.com/article/10.1007/s00381-021-05328-z'
 citation: 'Sainz, L. V., & Schuhmann, M. U. (2021). Subarachnomegaly—venous congestion of infancy. Child's Nervous System, 37, 3455-3463.'
