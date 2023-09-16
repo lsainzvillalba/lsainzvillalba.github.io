@@ -2,7 +2,7 @@
 title: "Subarachnomegaly - venous congestion of infanc"
 collection: publications
 permalink: /publication/subarachnomegaly
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Review of Subarachnomegaly and evidence supporting an impaired cerebrovenous system.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://lsainzvillalba.github.io/files/paper1.pdf'
