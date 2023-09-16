@@ -8,7 +8,7 @@ venue: 'Childs Nervous System'
 paperurl: 'https://link.springer.com/article/10.1007/s00381-021-05328-z'
 citation: 'Sainz, L. V., & Schuhmann, M. U. (2021). Subarachnomegaly—venous congestion of infancy. Child's Nervous System, 37, 3455-3463.'
 ---
-Literature review Subarachomegaly, commonly refered as external hydrocephalus, with special focus on defining features, clinical history with long term evaluation and the pathophysiological process.
+Multiple names within the literature refer to a clinical picture affecting infants and consisting of a large or fast growing head circumference with enlarged cortical subarachnoid spaces (CSAS) while cranial sutures are open. This myriad of terms demonstrates the confusion about the entity, that may even group together different etiological processes. In this review, we aim to shed light on this matter in an effort to restate the defining features of the clinical picture and sum the evidence and current understanding of its pathophysiology and related imaging findings.
 
 [Download paper here](https://link.springer.com/article/10.1007/s00381-021-05328-z)
 
