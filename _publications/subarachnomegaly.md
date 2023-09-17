@@ -1,7 +1,7 @@
 ---
 title: "Subarachnomegaly—venous congestion of infancy"
 collection: publications
-permalink: /publication/hypertension
+permalink: /publication/subarachnomegaly
 excerpt: 'Literature review of Subarachnomegaly focusing on clinical features, evolution and pathophysiology'
 date: 2021-10-23
 venue: 'Childs Nervous System'
