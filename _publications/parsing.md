@@ -2,7 +2,7 @@
 title: "Oscillatory Brain Activity in Morphological Parsing of Complex Words: Information Gain from Stems and Suffixes"
 collection: publications
 permalink: /publication/parsing
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'EEG evoked potential study on lexical decision of primed words'
 date: 2018-11-01
 venue: 'Journal of Neurology and Neuroscience'
 paperurl: 'https://www.researchgate.net/publication/328743209_Oscillatory_Brain_Activity_in_Morphological_Parsing_of_Complex_Words_Information_Gain_from_Stems_and_Suffixes'
