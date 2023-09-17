@@ -3,7 +3,7 @@ title: "Cerebro-venous hypertension: a frequent cause of so-called external hydr
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Review of MRI venous abnormalities in Subarachnomegaly pediatric cases'
-date: 2010-10-01
+date: 2018-11-24
 venue: 'Childs Nervous System'
 paperurl: 'https://link.springer.com/article/10.1007/s00381-018-4007-3'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
@@ -12,4 +12,4 @@ External hydrocephalus (eHC) is commonly defined as a subtype of infant “hydro
 
 [Check paper here](https://link.springer.com/article/10.1007/s00381-018-4007-3)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Sainz, L. V., Zipfel, J., Kerscher, S. R., Weichselbaum, A., Bevot, A., & Schuhmann, M. U. (2019). Cerebro-venous hypertension: a frequent cause of so-called “external hydrocephalus” in infants. Child's Nervous System, 35, 251-256.
