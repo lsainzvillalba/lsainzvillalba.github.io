@@ -2,7 +2,7 @@
 title: "Cerebro-venous hypertension: a frequent cause of so-called external hydrocephalus in infants"
 collection: publications
 permalink: /publication/hypertension
-excerpt: 'Review of MRI venous abnormalities in cohort of Subarachnomegaly pediatric patients'
+excerpt: 'MRI venous abnormalities in cohort of Subarachnomegaly pediatric patients'
 date: 2018-11-24
 venue: 'Childs Nervous System'
 paperurl: 'https://link.springer.com/article/10.1007/s00381-018-4007-3'
