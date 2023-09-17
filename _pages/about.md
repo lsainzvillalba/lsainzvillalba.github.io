@@ -15,5 +15,6 @@ redirect_from:
 <div style="text-align: justify"> I completed my Medicine studies at the Complutense University of Madrid (Spain) in 2012 and then became a fully trained and certified Neurosurgeon at the Jiménez Díaz Hospital in Madrid (Spain), while completing a degree in Theoretical Physics at the same university.</div> 
 <br>
 <div style="text-align: justify"> I am currently finishing a PhD in Computational Neuroscience at the Institute of Neuroinformatics (ETH Zurich). </div> 
+[this is a test](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
 
 
