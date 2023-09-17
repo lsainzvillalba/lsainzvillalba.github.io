@@ -1,7 +1,7 @@
 ---
 title: "Cerebro-venous hypertension: a frequent cause of so-called external hydrocephalus in infants"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/hypertension
 excerpt: 'Review of MRI venous abnormalities in Subarachnomegaly pediatric cases'
 date: 2018-11-24
 venue: 'Childs Nervous System'
