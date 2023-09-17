@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Oscillatory Brain Activity in Morphological Parsing of Complex Words: Information Gain from Stems and Suffixes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/parsing
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2018-11-01
+venue: 'Journal of Neurology and Neuroscience'
+paperurl: 'https://www.researchgate.net/publication/328743209_Oscillatory_Brain_Activity_in_Morphological_Parsing_of_Complex_Words_Information_Gain_from_Stems_and_Suffixes'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+## Abstract
+In this study, behavioral and EEG measurements were taken while participants performed two priming lexical decision experiments on complex words. In Experiment I stems of high and low family size were used as primes. Behavioral results show an inhibitory effect for stem family size whereas time-frequency responses (TFR) show significant oscillatory brain activity in the range of beta- band and theta-band on right and left temporal sites respectively, both related to lexical status of word patterns. In Experiment II, in which suffixes of high and low family size were used as primes, the effect of family size is facilitatory. Concerning ERP analysis on waveform amplitudes, an early significant lexical status effect emerges although it disappears over time. No significant oscillatory brain activity emerges concerning time frequency responses (TFR). According to an information- gain probabilistic model, the participants modulate their responses in terms of the information provided by the different morphemes used as primes.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/publication/328743209_Oscillatory_Brain_Activity_in_Morphological_Parsing_of_Complex_Words_Information_Gain_from_Stems_and_Suffixes)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Recommended citation: 
+Sainz, L.V., Sainz, J.S., & Lazaro, M. (2018). Oscillatory brain activity in morphological parsing of complex words: Information gain from stems and suffixes. Journal of Neurology and Neuroscience, 9(5), 271.
