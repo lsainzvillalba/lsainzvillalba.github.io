@@ -45,9 +45,9 @@ redirect_from:
 ======
 * Teaching assitant, 227-0421-00L  Learning in Deep Artificial and Biological Neuronal Networks, ETH Zurich, 2019-Current
 * Teaching assistant, 227-0395-00L Neural Systems, ETH Zurich, 2021-Current
-* Makerspace manager - Student Project House, ETH Zurich, 2022-Current
-* Mathematica Certified Instructor - Wolfram Language, 2014-2015
-* Lecturer -  Clinical Neurophysiology Course, Language Disorders Master, Complutense University of Madrid, 2013-2014
+* Makerspace manager, Student Project House, ETH Zurich, 2022-Current
+* Mathematica Certified Instructor, Wolfram Language, 2014-2015
+* Lecturer, Clinical Neurophysiology, Language Disorders Master, Complutense University of Madrid, 2013-2014
 
 ## Research and Professional Interests
 ======
