@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Coming soon ..."
 permalink: /coming_soon/
 author_profile: false
