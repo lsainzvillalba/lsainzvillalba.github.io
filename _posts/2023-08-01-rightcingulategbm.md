@@ -18,7 +18,6 @@ https://pubmed.ncbi.nlm.nih.gov/19645564/
 ### DIAGNOSTIC STUDY: 
 MRI brain showed right cingulate enhancing mass with MRI spectroscopy compatible with malignant glioma tumor.
 
-![alt text](https://lsainzvillalba.github.io/images/bio-photo-2.jpg)
 <video src="https://lsainzvillalba.github.io/images/righcingulategbm.mov" width="240" height="320" controls></video>
 
 ### POSITIONING: 
