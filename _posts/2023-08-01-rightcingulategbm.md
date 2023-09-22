@@ -44,7 +44,7 @@ Interhemispheric ipsilateral transcingulate
 <div style="text-align: justify"> Neurophysiological monitoring remained stable throughout the entire case. All sponge counts and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred to the recovery room in stable condition.</div> 
 
 ### POSTOPERATIVE EVOLUTION: 
-<div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of leg clumsiness and slow thought. The walking pattern improved and the patient was more socially active. Postoperative MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
+<div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of both leg clumsiness and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
 
 ### NUANCES AND DECISION STRATEGY
 - Planning the position to open the interhemispheric fissure with the help of gravity - ipsilateral side down
