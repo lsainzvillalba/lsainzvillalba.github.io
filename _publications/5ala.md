@@ -1,7 +1,7 @@
 ---
 title: "5-ALA Fluorescence guided resection of Hemangioblastomas: Is it useful with conventional surgical tools?"
 collection: publications
-permalink: /publication/cclibro
+permalink: /publication/5ala
 excerpt: ' Discussion of utility of 5 ALA guided resection of Hemangioblastomas'
 date: 2014-01-01
 venue: 'Neuro-oncology'
