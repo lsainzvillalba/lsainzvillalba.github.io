@@ -6,6 +6,7 @@ tags:
   - Cingulate
   - Glioblastoma
 ---
+79 year old male who presents with a history, symptoms and radiographic findings consistent with a right middle cingulate mass.
 
 ### HISTORY: 
 <div style="text-align: justify"> 79 year old male who presents with a history, symptoms and radiographic findings consistent with a right middle cingulate mass. The neurological exam revealed sluggish train of thought with slow answering despite being oriented, subtle social and emotional apathy and slight weakness on left leg with clumsiness mostly affecting walk with spared strength in simple movements. </div> 
