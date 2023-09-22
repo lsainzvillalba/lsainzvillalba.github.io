@@ -24,9 +24,7 @@ MRI brain showed right cingulate enhancing mass with MRI spectroscopy compatible
     margin: 0 auto;
   }
 </style>
-<video controls autoplay>
-  <source src="https://lsainzvillalba.github.io/images/righcingulategbm.mov" width="480" height="640" type="video/mov">
-</video>
+<video src="https://lsainzvillalba.github.io/images/righcingulategbm.mov" width="480" height="640" controls autoplay></video>
 
 ### POSITIONING: 
 A Mayfield head clamp was applied. The patient was placed in the latero-supine position with the head tilted with the contralateral (left) side up. All pressure points were well-padded. The hair was clipped over the area where he was to undergo the incision. Pre-prepping was done with (chlorhexidine solution, alcohol). The electrophysiology monitoring team inserted needles in their proper locations and baseline SSEPs and motor evoked potentials were obtained. The patient underwent co-registration of the preoperative stereotactic MRI with his surface landmarks. The planned craniotomy was outlined parasagitally slightly crossing the midline. 
