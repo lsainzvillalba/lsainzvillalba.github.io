@@ -1,7 +1,7 @@
 ---
 title: 'Left clinoidal meningioma'
 date: 2023-08-01
-permalink: /posts/2023/08/rightcingulategbm/
+permalink: /posts/2023/08/leftclinoidalmeningioma/
 tags:
   - Clinoid
   - Meningioma
