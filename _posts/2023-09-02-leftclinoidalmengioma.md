@@ -5,17 +5,16 @@ permalink: /posts/2023/09/leftclinoidalmeningioma/
 tags:
   - Clinoid
   - Meningioma
-  - Fronto-orbital craniotomy
+  - Extended pterional
 ---
-Left clinoidal meningioma diagnosed after seizure episode
+Left clinoidal meningioma diagnosed after epileptic seizure episode
 
 ### HISTORY: 
-<div style="text-align: justify"> 43 year old female who presents with an episode of seizures, Radiographic findings were consistent 
-  with a left clinoidal mass. The neurological exam was normal. </div> 
+<div style="text-align: justify"> 43 year old female who is brought to the emergency room after suffering an episode of epileptic seizures. Radiographic findings were consistent with a left clinoidal mass. The neurological exam was normal. </div> 
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> MRI brain showed left clinoidal extra-axial contrast enhancing mass compatible with 
-  meningioma. Vasogenic edema was very prominent reaching ... . </div> 
+  a meningioma. </div> 
 
 <style>
   video {
@@ -26,21 +25,19 @@ Left clinoidal meningioma diagnosed after seizure episode
 <video src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.mov" width="380" height="500" controls autoplay></video>
 
 ### SURGICAL APPROACH:
-Fronto-orbital
+Fronto-orbital, Extended-pterional
 
 ### POSITIONING: 
-<div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in the latero-supine position 
-  with the head tilted with the right side down. All pressure points were well-padded. The hair was clipped over the planned incision. 
+<div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
+  with the head slightly tilted with towards the right. All pressure points were well-padded. The hair was clipped over the planned incision. 
   Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and 
-  baseline SSEPs and motor evoked potentials were obtained. The patient underwent co-registration of the preoperative stereotactic MRI with 
-  his surface landmarks. The planned craniotomy was outlined right parasagittal slightly crossing the midline. </div> 
+  baseline SSEPs, motor evoked potentials and, visual evoked potentials were obtained. The patient underwent co-registration of the 
+  preoperative stereotactic MRI with her surface landmarks. </div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A S-shaped coronal incision following previous 
-  surgical incision (for skin lesion) was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Periosteum was
-  preserved and cut separately for later closure.</div> 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A fronto-pterional incision behind the hair linefollowing  was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Temporal muscle bilayer dissection-- Spare periostium for dura reconstruction -   .</div> 
 
-<div style="text-align: justify"> Right parasagittal craniotomy was performed using an electric high speed drill. The bone flap 
+<div style="text-align: justify"> Left pterioral craniotomy was performed using an electric high speed drill - extending to superior orbital rim. The bone flap 
   was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
   The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the 
   midline was performed and the dura was lifted with tenting sutures. </div> 
@@ -77,6 +74,10 @@ Fronto-orbital
 <div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of both leg clumsiness 
   and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative 
   MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
+
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/bio-photo-2.jpg" alt="ddd">
+   </div>
 
 ### NUANCES AND DECISION STRATEGY
 - Planning the position to open the interhemispheric fissure with the help of gravity - ipsilateral side down
