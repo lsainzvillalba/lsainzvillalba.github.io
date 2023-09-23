@@ -1,6 +1,6 @@
 ---
 title: 'Left clinoidal meningioma'
-date: 2023-08-01
+date: 2023-08-02
 permalink: /posts/2023/08/leftclinoidalmeningioma/
 tags:
   - Clinoid
@@ -11,10 +11,10 @@ Left clinoidal meningioma diagnosed after seizure episode
 # In progress
 
 ### HISTORY: 
-<div style="text-align: justify"> 79 year old male who presents with a history, symptoms and radiographic findings consistent with a right middle cingulate mass. The neurological exam revealed sluggish train of thought with slow answering despite being oriented, subtle social and emotional apathy and slight weakness on left leg with clumsiness mostly affecting walk with spared strength in simple movements. </div> 
+<div style="text-align: justify"> 79 year ol </div> 
 
 ### DIAGNOSTIC STUDY: 
-<div style="text-align: justify"> MRI brain showed right cingulate enhancing mass with MRI spectroscopy compatible with malignant glioma tumor. Vasogenic edema spread up to superior frontal gyrus (F1) from superior border of caudate nucleus. </div> 
+<div style="text-align: justify"> MRI b </div> 
 
 <style>
   video {
@@ -25,7 +25,7 @@ Left clinoidal meningioma diagnosed after seizure episode
 <video src="https://lsainzvillalba.github.io/images/righcingulategbm.mov" width="380" height="500" controls autoplay></video>
 
 ### SURGICAL APPROACH:
-Interhemispheric ipsilateral transcingulate
+Interhemispheric ip
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in the latero-supine position with the head tilted with the right side down. All pressure points were well-padded. The hair was clipped over the planned incision. Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and baseline SSEPs and motor evoked potentials were obtained. The patient underwent co-registration of the preoperative stereotactic MRI with his surface landmarks. The planned craniotomy was outlined right parasagittal slightly crossing the midline. </div> 
