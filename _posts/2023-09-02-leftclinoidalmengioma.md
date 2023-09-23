@@ -25,7 +25,7 @@ Left clinoidal meningioma diagnosed after epileptic seizure episode
 <video src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.mov" width="380" height="500" controls autoplay></video>
 
 ### SURGICAL APPROACH:
-Fronto-orbital, Extended-pterional
+Extended-pterional with extradural clinoidectomy
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
@@ -76,7 +76,7 @@ Fronto-orbital, Extended-pterional
   MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
 
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/bio-photo-2.jpg" alt="ddd">
+       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd">
    </div>
 
 ### NUANCES AND DECISION STRATEGY
