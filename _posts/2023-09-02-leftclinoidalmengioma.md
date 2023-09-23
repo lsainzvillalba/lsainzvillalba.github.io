@@ -91,5 +91,6 @@ Fronto-orbital, Extended-pterional
 - Intraoperative neurophysiology - motor evoked potentials - to spare corticospinal tract in the depth of the surgical bed
 
 ### RESOURCES
+- [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - [Gliomas of the cingulate gyrus: surgical management and functional outcome](https://pubmed.ncbi.nlm.nih.gov/19645564/)
 
