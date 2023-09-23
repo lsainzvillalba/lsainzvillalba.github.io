@@ -92,5 +92,5 @@ Fronto-orbital, Extended-pterional
 
 ### RESOURCES
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
-- [Gliomas of the cingulate gyrus: surgical management and functional outcome](https://pubmed.ncbi.nlm.nih.gov/19645564/)
+- [Extradural clinoidectomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
 
