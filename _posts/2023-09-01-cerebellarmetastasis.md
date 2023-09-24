@@ -1,7 +1,7 @@
 ---
-title: 'Right posterior parietal meningioma'
-date: 2023-07-03
-permalink: /posts/2023/07/cerebellarmetastasis/
+title: 'Cerebellar metastasis'
+date: 2023-09-01
+permalink: /posts/2023/09/cerebellarmetastasis/
 tags:
   - Cerebellum
   - Metastasis
