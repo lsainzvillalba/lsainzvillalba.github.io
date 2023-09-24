@@ -53,7 +53,7 @@ Interhemispheric ipsilateral transcingulate
 - Dissect the interhemispheric fissure down to the pericallosal cistern to accomplish a wide and relaxed exposure
 - Spare superior frontal gyrus and avoid retractors or pressure on the medial surface to avoid supplementary motor area syndrome.
 - Dissect in advance the callosomarginal artery from the sulcus and medial surface to be removed to avoid stroke
-- If vasospasm is noted take time to resolve it with body-temperature saline irrigation and even diluted nimodipin or papaverin
+- If vasospasm is noted, take time to resolve it with body-temperature saline irrigation and even with nimodipin or papaverin soaked cottonoids
 - 5 ALA guided resection - high suspicion of malignant glioma - specially useful in the interface with healthy tissue
 - Intraoperative neurophysiology - motor evoked potentials - to spare corticospinal tract in the depth of the surgical bed
 
