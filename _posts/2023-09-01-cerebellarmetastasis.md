@@ -7,7 +7,7 @@ tags:
   - Metastasis
   - 
 ---
-Cerebellar contrast enhancing mass in a lung cancer patient
+Cerebellar contrast enhancing mass in a patient with lung cancer
 
 # In progress ...
 
