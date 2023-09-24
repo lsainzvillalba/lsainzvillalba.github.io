@@ -1,6 +1,6 @@
 ---
 title: 'Spontaneous intracerebral hemorrhage'
-date: 2023-09-04
+date: 2023-09-01
 permalink: /posts/2023/09/intracerebralhemorrhage/
 tags:
   - ICH intracerebral hemorrahge
