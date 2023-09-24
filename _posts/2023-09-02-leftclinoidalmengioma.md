@@ -29,16 +29,16 @@ Extended-pterional with extradural clinoidectomy
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
-  with the head slightly tilted with towards the right. All pressure points were well-padded. The hair was clipped over the planned incision. 
+  with the head slightly rotated (about 30 degrees) towards the right and extended such that the malar prominence would be the highest point
+  in the surgical field. All pressure points were well-padded. The hair was clipped over the planned incision. 
   Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and 
   baseline SSEPs, motor evoked potentials and, visual evoked potentials were obtained. The patient underwent co-registration of the 
   preoperative stereotactic MRI with her surface landmarks. </div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A fronto-pterional incision behind the hair linefollowing  was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Temporal muscle bilayer dissection-- Spare periostium for dura reconstruction -   .</div> 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A fronto-pterional incision from the midline to the root of the zygoma, behind the hair line was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Temporal muscle dissection was performed in two steps: interfascially below the frontal fat pad and then subperiostically to allow wider exposure and less tension on the muscle during the operation.</div> 
 
-<div style="text-align: justify"> Left pterioral craniotomy was performed using an electric high speed drill - extending to superior orbital rim. The bone flap 
-  was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
+<div style="text-align: justify"> Left pterioral craniotomy was performed using an electric high speed drill with the frontal cut extending to the superior orbital rim lateral to the supraorbital nerve.A burr-hole was placed at the anterior part of the frontospheoide suture (McCarthy) to expose both orbit and dura. After careful dissection of the periorbit from the superior orbital wall, the orbital roof was cut with the aid of a fine escoplo. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
   The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the 
   midline was performed and the dura was lifted with tenting sutures. </div> 
 
@@ -80,17 +80,18 @@ Extended-pterional with extradural clinoidectomy
    </div>
 
 ### NUANCES AND DECISION STRATEGY
-- Planning the position to open the interhemispheric fissure with the help of gravity - ipsilateral side down
-- Plan the craniotomy according to the anatomy of cortical bridging veins
-- Protect bridging veins and sagittal sinus with moisted cottonoids and avoid tension that occludes them
-- Dissect the interhemispheric fissure down to the pericallosal cistern to accomplish a wide and relaxed exposure
-- Spare superior frontal gyrus and avoid retractors or pressure on the medial surface to avoid supplementary motor area syndrome.
-- Dissect in advance the callosomarginal artery from the sulcus and medial surface to be removed to avoid stroke
-- If vasospasm is noted take time to resolve it with body-temperature saline irrigation and even diluted nimodipin or papaverin
-- 5 ALA guided resection - high suspicion of malignant glioma - specially useful in the interface with healthy tissue
-- Intraoperative neurophysiology - motor evoked potentials - to spare corticospinal tract in the depth of the surgical bed
+- 
+- Extradural clinoidectomy - 
+- Visual evoked potentials - before awake as a final result - later the eyelid will be swollen
+- Check for middle clinoid
+- T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
+- respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
+- 
+  
+  
 
 ### RESOURCES
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - [Extradural clinoidectomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
+- [Pterional surgical anatomy](https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
 
