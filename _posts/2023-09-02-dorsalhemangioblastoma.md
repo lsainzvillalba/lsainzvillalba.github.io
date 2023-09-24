@@ -1,7 +1,7 @@
 ---
 title: 'Dorsal intramedullary hemangioblastoma'
-date: 2023-08-05
-permalink: /posts/2023/08/dorsalhemangioblastoma/
+date: 2023-09-02
+permalink: /posts/2023/09/dorsalhemangioblastoma/
 tags:
   - Spinal cord
   - Hemangioblastoma
