@@ -1,7 +1,7 @@
 ---
 title: 'Right posterior parietal meningioma'
-date: 2023-07-02
-permalink: /posts/2023/07/posteriorparietal/
+date: 2023-08-28
+permalink: /posts/2023/08/posteriorparietal/
 tags:
   - Parasagital parietal
   - Meningioma
