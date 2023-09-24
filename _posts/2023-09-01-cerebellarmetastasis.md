@@ -12,7 +12,7 @@ Cerebellar contrast enhancing mass in a lung cancer patient
 # In progress ...
 
 ### HISTORY: 
-<div style="text-align: justify"> 43 year old female who is brought to the emergency room after suffering an episode of epileptic seizures. Radiographic findings were consistent with a left clinoidal mass. The neurological exam was normal. </div> 
+<div style="text-align: justify"> 57 year old male presents with history of ... . The neurological exam reveals. </div> 
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> MRI brain showed left clinoidal extra-axial contrast enhancing mass compatible with 
@@ -24,7 +24,7 @@ Cerebellar contrast enhancing mass in a lung cancer patient
     margin: 0 auto;
   }
 </style>
-<video src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.mov" width="380" height="500" controls autoplay></video>
+<video src="https://lsainzvillalba.github.io/images/cerebellarmestastasis.mov" width="380" height="500" controls autoplay></video>
 
 ### SURGICAL APPROACH:
 Extended-pterional with extradural clinoidectomy
