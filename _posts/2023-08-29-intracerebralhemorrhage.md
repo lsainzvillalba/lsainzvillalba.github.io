@@ -1,7 +1,7 @@
 ---
 title: 'Spontaneous intracerebral hemorrhage'
-date: 2023-09-01
-permalink: /posts/2023/09/intracerebralhemorrhage/
+date: 2023-08-29
+permalink: /posts/2023/08/intracerebralhemorrhage/
 tags:
   - ICH intracerebral hemorrahge
   - Amyloid angiopathy
