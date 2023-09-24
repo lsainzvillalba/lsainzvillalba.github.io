@@ -1,6 +1,6 @@
 ---
 title: 'Left clinoidal meningioma'
-date: 2023-09-02
+date: 2023-09-04
 permalink: /posts/2023/09/leftclinoidalmeningioma/
 tags:
   - Clinoid
