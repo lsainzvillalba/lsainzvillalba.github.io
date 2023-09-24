@@ -8,6 +8,8 @@ tags:
 ---
 Right posterior parietal hemorhagic contrast enhancing mass
 
+# In progress ...
+
 ### HISTORY: 
 <div style="text-align: justify"> 43 year old female who is brought to the emergency room after suffering an episode of epileptic seizures. Radiographic findings were consistent with a left clinoidal mass. The neurological exam was normal. </div> 
 
