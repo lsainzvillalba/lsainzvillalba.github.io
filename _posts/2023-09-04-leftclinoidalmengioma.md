@@ -55,21 +55,31 @@ Extended-pterional with extradural clinoidectomy
 <div style="text-align: justify"> Neurophysiological monitoring besides visual evoked potentials remained stable throughout the entire case. All sponge and instrument counts were correct at the end of the case times two. Pupils remained symmetric and with normal size. The patient tolerated the procedure well and was transferred 
   to the recovery room in stable condition.</div> 
 
+<br>
+<br>
+
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma1.png" alt="ddd">
    </div>
-   
+<br>
+<br>
+
 ### POSTOPERATIVE EVOLUTION: 
 <div style="text-align: justify"> The patient awaken with no neurological deficits, spared frontal eyebrow movement, oriented, with normal speech and no weaknesses. Visual accuracy was tested as normal without changes respect to preoperative setting after 3 days, when the swollen eyelid restored to normal. Hence, the intraoperative decrease of visual evoked potentials was considered as a false positive.  MRI showed near total resection besides this residue, with no complications. Discharge was given at postoperative day 5 with appointment for follow up. </div> 
+<br>
+<br>
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.png" alt="ddd">
    </div>
 
+<br>
+<br>
+
 ### POSTOPERATIVE HISTOLOGICAL DIAGNOSIS:
 Meningioma WHO I
 
-### NUANCES AND DECISION STRATEGY
+### NUANCES AND DECISION STRATEGY:
 - Check for middle clinoid on CT scan to avoid injury to the carotid artery 
 - Study MRI T2 sequence to predict consistency of tumor and understand preserved subarachnoid spaces and relationship neurovascular structures
 - Place small hypoallergenic strips on to the ipsilateral eyelid in the prepping, to reduce postoperative swelling
@@ -85,7 +95,7 @@ Meningioma WHO I
        <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd">
    </div>
    
-### RESOURCES
+### RESOURCES:
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - [Extradural clinoidectomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
 - [Pterional surgical anatomy](https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
