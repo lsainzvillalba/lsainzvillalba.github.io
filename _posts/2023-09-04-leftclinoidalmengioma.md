@@ -61,8 +61,6 @@ Extended-pterional with extradural clinoidectomy
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma1.png" alt="ddd">
    </div>
-<br>
-<br>
 
 ### POSTOPERATIVE EVOLUTION:
 <div style="text-align: justify"> The patient awaken with no neurological deficits, spared frontal eyebrow movement, oriented, with normal speech and no weaknesses. Visual accuracy was tested as normal without changes respect to preoperative setting after 3 days, when the swollen eyelid restored to normal. Hence, the intraoperative decrease of visual evoked potentials was considered as a false positive.  MRI showed near total resection besides this residue, with no complications. Discharge was given at postoperative day 5 with appointment for follow up. </div> 
@@ -73,13 +71,9 @@ Extended-pterional with extradural clinoidectomy
        <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.png" alt="ddd">
    </div>
 
-<br>
-<br>
 
 ### HISTOLOGICAL DIAGNOSIS:
 Meningioma WHO I 
-
-<br>
 
 ### NUANCES AND DECISION STRATEGY:
 - Check for middle clinoid on CT scan to avoid injury to the carotid artery 
@@ -93,11 +87,10 @@ Meningioma WHO I
 - High magnification is paramount to detect attachments of anterior coroidal artery or compressed trochlear nerve to the tumor capsule
 - Apply ice to reduce orbital inflamation in the postoperative setting
 
+<br>
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd">
    </div>
-
-<br>
 
 ### RESOURCES:
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
