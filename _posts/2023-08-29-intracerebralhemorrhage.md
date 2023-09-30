@@ -23,7 +23,7 @@ Spontaneous intracerebral hemorrhage in a comatous patient
     margin: 0 auto;
   }
 </style>
-<video src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.mov" width="380" height="500" controls autoplay></video>
+<video src="https://lsainzvillalba.github.io/images/ICH_pre.mov" width="380" height="500" controls autoplay></video>
 
 ### SURGICAL APPROACH:
 Extended-pterional with extradural clinoidectomy
@@ -76,9 +76,13 @@ Extended-pterional with extradural clinoidectomy
   and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative 
   MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
 
-<div align="center">
-       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd">
-   </div>
+<style>
+  video {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+<video src="https://lsainzvillalba.github.io/images/ICH_post.mov" width="380" height="500" controls autoplay></video>
 
 ### NUANCES AND DECISION STRATEGY
 - 
@@ -87,9 +91,6 @@ Extended-pterional with extradural clinoidectomy
 - Check for middle clinoid
 - T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
 - respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
-- 
-  
-  
 
 ### RESOURCES
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
