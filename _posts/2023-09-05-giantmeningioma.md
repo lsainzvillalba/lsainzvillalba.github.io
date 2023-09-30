@@ -11,11 +11,11 @@ Large anterior falcine contrast enhancing mass
 # In progress ...
 
 ### HISTORY: 
-<div style="text-align: justify"> 43 year old female who is brought to the emergency room after suffering an episode of epileptic seizures. Radiographic findings were consistent with a left clinoidal mass. The neurological exam was normal. </div> 
+<div style="text-align: justify"> 38 year old male who presents with a history of non-controlled severe headaches. He came to the emergency room suffering a severe headache episode. Radiographic findings were consistent with a large falcine mass. Besides subtle underperformance on daily cognitive tasks, the neurological exam was normal . </div> 
 
 ### DIAGNOSTIC STUDY: 
-<div style="text-align: justify"> MRI brain showed left clinoidal extra-axial contrast enhancing mass compatible with 
-  a meningioma. </div> 
+<div style="text-align: justify"> MRI brain showed large anterior falcine contrast enhancing mass compatible with 
+  a meningioma with important mass effect and edema. </div> 
 
 ### SURGICAL APPROACH:
 Bicoronal Midline
@@ -59,25 +59,24 @@ Bicoronal Midline
   knots of 2-0 synthetic absorbable suture (Polysorb). The skin was then closed with an intradermal running absorbable suture 3-0 
   (Monosyn). A small silicon Blake drainage was placed in the subperiosteal space. A sterile head dressing was placed over the closed wound.</div> 
 
-<div style="text-align: justify"> Neurophysiological monitoring remained stable throughout the entire case. All sponge counts 
-  and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred 
+<div style="text-align: justify"> Neurophysiological monitoring remained stable throughout the entire case. All sponge and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred 
   to the recovery room in stable condition.</div> 
 
 ### POSTOPERATIVE EVOLUTION: 
 Meningioma WHO II
 
 ### POSTOPERATIVE EVOLUTION: 
-<div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of both leg clumsiness 
-  and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative 
-  MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
+<div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of pressure feeling and headache. Postoperative 
+  CT showed gross total resection with no complications. Dexamethasone and Levetiracetam were maintained for several weeks and with a slower discontinuation due to removal of giant tumor (>60mm in diameter) producing drastic change in intracranial pressure and potential exacerbated edema. Discharge was given at postoperative day 5 with appointments for follow up. </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/giantfalcinemeningioma.png" alt="ddd">
    </div>
 
 ### NUANCES AND DECISION STRATEGY
-- 
--  MRI to study the venous system - patency occlusion of venous sinus and hypertrophic alternative pathways
+- CT bone - study abnormal anatomy of affected bone and venous drainage - diploic veins anatomy - prepare blood transfusion hemostats
+-  Preoperative venous sequence MRI to study the venous system - patency occlusion of venous sinus and hypertrophic alternative pathways
 -  Avoid sacrifice of patent venous alternative pathways
+-  book venous system
 - T2 sequence - predicting consistency of tumor and relationship neurovascular structures like the cingulate and pericallosal arteries
 - Appropriate hidration and corticoid and antiepileptic medication - drastic change of pressure and decompresion
