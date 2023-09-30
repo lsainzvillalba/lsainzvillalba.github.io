@@ -46,6 +46,9 @@ Interhemispheric ipsilateral transcingulate
 ### POSTOPERATIVE EVOLUTION: 
 <div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of both leg clumsiness and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
 
+### POSTOPERATIVE HISTOLOGICAL DIAGNOSIS:
+Glioblastoma WHO IV
+
 ### NUANCES AND DECISION STRATEGY
 - Planning the position to open the interhemispheric fissure with the help of gravity - ipsilateral side down
 - Plan the craniotomy according to the anatomy of cortical bridging veins
