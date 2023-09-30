@@ -17,16 +17,8 @@ Large anterior falcine contrast enhancing mass
 <div style="text-align: justify"> MRI brain showed left clinoidal extra-axial contrast enhancing mass compatible with 
   a meningioma. </div> 
 
-<style>
-  video {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-<video src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.mov" width="380" height="500" controls autoplay></video>
-
 ### SURGICAL APPROACH:
-Extended-pterional with extradural clinoidectomy
+Bicoronal Midline
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
@@ -72,19 +64,20 @@ Extended-pterional with extradural clinoidectomy
   to the recovery room in stable condition.</div> 
 
 ### POSTOPERATIVE EVOLUTION: 
+Meningioma WHO II
+
+### POSTOPERATIVE EVOLUTION: 
 <div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of both leg clumsiness 
   and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative 
   MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
 
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd">
+       <img src="https://lsainzvillalba.github.io/images/giantfalcinemeningioma.png" alt="ddd">
    </div>
 
 ### NUANCES AND DECISION STRATEGY
 - 
-- Extradural clinoidectomy - 
-- Visual evoked potentials - before awake as a final result - later the eyelid will be swollen
-- Check for middle clinoid
-- T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
-- respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
-- 
+-  MRI to study the venous system - patency occlusion of venous sinus and hypertrophic alternative pathways
+-  Avoid sacrifice of patent venous alternative pathways
+- T2 sequence - predicting consistency of tumor and relationship neurovascular structures like the cingulate and pericallosal arteries
+- Appropriate hidration and corticoid and antiepileptic medication - drastic change of pressure and decompresion
