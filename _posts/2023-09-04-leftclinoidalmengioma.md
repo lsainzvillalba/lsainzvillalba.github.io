@@ -57,22 +57,29 @@ Extended-pterional with extradural clinoidectomy
 ### POSTOPERATIVE EVOLUTION:
 <div style="text-align: justify"> The patient awaken with no neurological deficits, spared frontal eyebrow movement, oriented, with normal speech and no weaknesses. Visual accuracy was tested as normal without changes respect to preoperative setting after 3 days, when the swollen eyelid restored to normal. Hence, the intraoperative decrease of visual evoked potentials was considered as a false positive.  MRI showed near total resection besides this residue, with no complications. Discharge was given at postoperative day 5 with appointment for follow up. </div> 
 
-
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma1.png" alt="ddd" width="500" height="380">
+   </div>
+   
 ### HISTOLOGICAL DIAGNOSIS:
 Meningioma WHO I 
 
 ### NUANCES AND DECISION STRATEGY:
 - Check for middle clinoid on CT scan to avoid injury to the carotid artery 
-- Study MRI T2 sequence to predict consistency of tumor and understand preserved subarachnoid spaces and relationship neurovascular structures
+- Study MRI T2 sequence to predict consistency of tumor and understand preserved subarachnoid spaces and relationship to neurovascular structures
 - Place small hypoallergenic strips on to the ipsilateral eyelid in the prepping, to reduce postoperative swelling
 - Perform extradural clinoidectomy to devascularize the tumor early
 - Unroof the optic nerve to avoid damage while later manipulating the tumor
 - Copious irrigation during drilling to avoid heat damage to the optic nerve
-- Respect internal temporal muscle fascia, avoid cautery on the deep temporal arteries and reattach temporal muscle to the superior temporal line without cutting a cuff to prevent atrophy.
-- Respect arachnoid plane as dissection plane avoiding bipolar cautery
-- High magnification is paramount to detect attachments of anterior coroidal artery or compressed trochlear nerve to the tumor capsule
+- Preserve internal temporal muscle fascia, avoid cautery on the deep temporal arteries and reattach temporal muscle to the superior temporal line without cutting a cuff to prevent atrophy.
+- Avoid bipolar cautery to preserve arachnoid plane as dissection plane, use sharp dissection instead
+- High magnification is paramount to detect attachments of small neurovascular structures like anterior coroidal artery or compressed trochlear nerve to the tumor capsule
 - Apply ice to reduce orbital inflamation in the postoperative setting
 
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd" width="500" height="380">
+   </div>
+   
 ### RESOURCES:
 
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
