@@ -54,6 +54,8 @@ Extended-pterional with extradural clinoidectomy
 
 <div style="text-align: justify"> Neurophysiological monitoring besides visual evoked potentials remained stable throughout the entire case. All sponge and instrument counts were correct at the end of the case times two. Pupils remained symmetric and with normal size. The patient tolerated the procedure well and was transferred to the recovery room in stable condition.</div> 
 
+### POSTOPERATIVE EVOLUTION:
+asdflkjad
 
 
 
