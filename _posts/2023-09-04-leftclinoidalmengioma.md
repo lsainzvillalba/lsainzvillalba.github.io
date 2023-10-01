@@ -54,8 +54,5 @@ Extended-pterional with extradural clinoidectomy
 
 <div style="text-align: justify"> Neurophysiological monitoring besides visual evoked potentials remained stable throughout the entire case. All sponge and instrument counts were correct at the end of the case times two. Pupils remained symmetric and with normal size. The patient tolerated the procedure well and was transferred to the recovery room in stable condition.</div> 
 
-### POSTOPERATIVE EVOLUTION:
-asdflkjad
-
-
-
+### OPERATIVE TECHNIQUE:
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A fronto-pterional incision from the midline to the root of the zygoma, behind the hair line was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Temporal muscle dissection was performed in two steps: interfascially below the frontal fat pad and then subperiostically to allow wider exposure and less tension on the muscle when reflecting throughout the operation.</div> 
