@@ -54,7 +54,30 @@ Extended-pterional with extradural clinoidectomy
 
 <div style="text-align: justify"> Neurophysiological monitoring besides visual evoked potentials remained stable throughout the entire case. All sponge and instrument counts were correct at the end of the case times two. Pupils remained symmetric and with normal size. The patient tolerated the procedure well and was transferred to the recovery room in stable condition.</div> 
 
-### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A fronto-pterional incision from the midline to the root of the zygoma, behind the hair line was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Temporal muscle dissection was performed in two steps: interfascially below the frontal fat pad and then subperiostically to allow wider exposure and less tension on the muscle when reflecting throughout the operation.</div> 
+### POSTOPERATIVE EVOLUTION:
+<div style="text-align: justify"> The patient awaken with no neurological deficits, spared frontal eyebrow movement, oriented, with normal speech and no weaknesses. Visual accuracy was tested as normal without changes respect to preoperative setting after 3 days, when the swollen eyelid restored to normal. Hence, the intraoperative decrease of visual evoked potentials was considered as a false positive.  MRI showed near total resection besides this residue, with no complications. Discharge was given at postoperative day 5 with appointment for follow up. </div> 
 
+
+### HISTOLOGICAL DIAGNOSIS:
+Meningioma WHO I 
+
+### NUANCES AND DECISION STRATEGY:
+- Check for middle clinoid on CT scan to avoid injury to the carotid artery 
+- Study MRI T2 sequence to predict consistency of tumor and understand preserved subarachnoid spaces and relationship neurovascular structures
+- Place small hypoallergenic strips on to the ipsilateral eyelid in the prepping, to reduce postoperative swelling
+- Perform extradural clinoidectomy to devascularize the tumor early
+- Unroof the optic nerve to avoid damage while later manipulating the tumor
+- Copious irrigation during drilling to avoid heat damage to the optic nerve
+- Respect internal temporal muscle fascia, avoid cautery on the deep temporal arteries and reattach temporal muscle to the superior temporal line without cutting a cuff to prevent atrophy.
+- Respect arachnoid plane as dissection plane avoiding bipolar cautery
+- High magnification is paramount to detect attachments of anterior coroidal artery or compressed trochlear nerve to the tumor capsule
+- Apply ice to reduce orbital inflamation in the postoperative setting
+
+### RESOURCES:
+
+- [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
+- [Extradural clinoidectomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
+- [Pterional surgical anatomy](https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
+- [Middle Clinoid detection and its relevance for complication avoidance](https://thejns.org/view/journals/j-neurosurg/129/1/article-p60.xml)
+- [Skull base dissection photo atlas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3229394/)
 
