@@ -77,7 +77,7 @@ Meningioma WHO I
 - Apply ice to reduce orbital inflamation in the postoperative setting
 
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd" width="500" height="380">
+       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd" width="380" height="500">
    </div>
    
 ### RESOURCES:
