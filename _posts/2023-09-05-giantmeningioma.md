@@ -15,6 +15,10 @@ Large anterior falcine contrast enhancing mass
 <div style="text-align: justify"> MRI brain showed large anterior falcine contrast enhancing mass compatible with 
   a meningioma with important mass effect and edema. </div> 
 
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/falcinemeningioma_pre.png" alt="ddd">
+   </div>
+
 ### SURGICAL APPROACH:
 Bicoronal Midline
 
@@ -64,7 +68,7 @@ Meningioma WHO II
   CT showed gross total resection with no complications. Dexamethasone and Levetiracetam were maintained for several weeks and discontinued slower than in standard cases due to removal of giant tumor (>60mm in diameter) that produces drastic change in intracranial pressure and potential exacerbated edema. Discharge was given at postoperative day 7 with appointments for follow up. </div> 
 
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/giantfalcinemeningioma.png" alt="ddd">
+       <img src="https://lsainzvillalba.github.io/images/falcinemeningioma_post.png" alt="ddd">
    </div>
 
 ### NUANCES AND DECISION STRATEGY
