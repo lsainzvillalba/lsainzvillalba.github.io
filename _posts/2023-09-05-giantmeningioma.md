@@ -9,7 +9,7 @@ tags:
 Large anterior falcine contrast enhancing mass
 
 ### HISTORY: 
-<div style="text-align: justify"> 38 year old male who presents with a history of non-controlled severe headaches. He came to the emergency room suffering a severe headache episode. Radiographic findings were consistent with a large falcine mass. Besides subtle underperformance on daily cognitive tasks, the neurological exam was normal . </div> 
+<div style="text-align: justify"> 38 year old male who presents with a history of non-controlled headaches. He came to the emergency room suffering a severe headache episode. Radiographic findings were consistent with a large falcine mass. Besides subtle underperformance on daily cognitive tasks, the neurological exam was normal . </div> 
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> MRI brain showed large anterior falcine contrast enhancing mass compatible with 
@@ -20,7 +20,7 @@ Large anterior falcine contrast enhancing mass
    </div>
 
 ### SURGICAL APPROACH:
-Bicoronal Midline
+Bicoronal Midline extended parasagittal
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
@@ -30,30 +30,17 @@ Bicoronal Midline
   preoperative stereotactic MRI with her surface landmarks. The craniotomy was outlined according to the registration to expose healthy duramater margins.</div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A bicoronal incision behind the hair line and centered on the lesion was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. A large periostium flap was dissected separately and preserved for later reconstruction of the duramater. The scalp and the external table of the calvaria bone were noted as normal with no hypertrophic arteries.</div> 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A bicoronal incision behind the hair line and centered on the lesion, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. A large periostium flap was dissected separately and preserved for later reconstruction of the duramater. The scalp and the external table of the calvaria bone were noted as normal with no hypertrophic arteries.</div> 
 
-<div style="text-align: justify"> A large craniotomy centered over the midline and slighlty posterior to the coronal suture was performed using an electric high speed drill. Two burr-holes were placed at the edges of the craniotomy over the midline and in expected healthy duramater surface. With the help of a  #3 Penfield the duramater of the sagittal sinus was disected from the bone and the craniotomy was completed with the craniotome in two passes (from medial to lateral).The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the superior sagittal sinus. The dura was noted to have some tears with tumor components strongly adhered to the uplifted bone. A small C-shaped durotomy with base towards the 
-  midline was performed and the dura was lifted with tenting sutures. </div> 
+<div style="text-align: justify"> A large craniotomy centered over the midline and slighlty posterior to the coronal suture was performed using an electric high speed drill. Two burr-holes were placed at the edges of the craniotomy over the midline and in expected healthy duramater surface. With the help of a  #3 Penfield the duramater of the sagittal sinus was disected from the bone and the craniotomy was completed with the craniotome in two passes (from medial to lateral). The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the superior sagittal sinus. The dura was noted to have some tears with tumor components strongly adhered to the uplifted bone. </div> 
 
-<div style="text-align: justify"> The operating microscope was then draped and brought into the operative field. Careful dissection 
-  of the interhemispheric fissure was carried out anteriorly and posteriorly and down to the pericallosal cistern, letting the right 
-  medial cortical surface lower by gravity. Cottonoids were placed on bridging cortical veins, the sagittal sinus and keeping and, 
-  the medial surface of the superior frontal gyrus keeping them moist throughout the procedure. With the aid of the neuronavigational 
-  probe, the limits of the tumor in the medial surface were identified. Microdissection technique was used further to expose the 
-  cingulate sulcus and separate the callosomarginal artery cutting multiple arachnoid adhesions.  Under blue light and guided with 5-ALA 
-  the medial surface of the tumor was visualized. A small corticectomy and tissue sample were centered at the most fluorescent spot 
-  for intraoperative biopsy that confirmed high grade glioma. </div> 
+<div style="text-align: justify"> The operating microscope was then draped and brought into the operative field. Initial durotomy was performed bilateraly in a C-fashion with base towards the midline and in healthy duramater. The lesion was noted to be whitish in color with rubbery consistency and clear-defined planes. Using a combination 5-French suction, bipolar electrocautery, as well as micro-scissors a plane was developed around the lesion in both lateral borders at each of both sides of the interhemispheric fissure. The tumor capsule was dissected from the cortical surface and cauterized shrinking and devascularizing the tumor to proceed with a piecemeal resection also using the ultrasonic aspirator for debulking. In the most inferior and deep margin of the tumor, feeding arteries that came from the cingulate and pericallosal arteries were cauterized and cut. The affected falx and venous segment in the superior sagittal sinus were tackled the last, to avoid compromising the venous drainage of the tumor while resecting it.  </div> 
 
-<div style="text-align: justify"> The lesion was noted to be grayish in color with soft consistency and ill-defined planes. 
-  Using a combination 5-French suction, bipolar electrocautery, as well as micro-scissors a plane was developed around the lesion 
-  in its superior, medial border following the cingulate sulcus and 5-ALA signal. Microdissection continued around the lesion 
-  following the plane and using the neuronavigational probe and the 5-ALA signal to carefully guide the volumetric resection. </div> 
+<div style="text-align: justify"> , To remove the affected falx, origin of the tumor, first, the superior sagittal sinus was temporarly clipped to prove that effective venous outflow was residual. After 10 minutes of unchanged neurophysiology monitoring and no edema development, the affected segment of the sinus was ligated and cut. The falx was then further cut down to the inferior margin and removed "en-bloc", reaching healthy dura, sparing the inferior sagittal sinus that had developed as a collateral pathway and was hypertrophic.  </div> 
 
-<div style="text-align: justify"> The tumor specimen was sent to pathology. body-temperature saline, The surgical bed was subsequently irrigated until clear hemostasis was achieved utilizing a 
-  combination of bipolar electrocautery and oxidized cellulose absorbable hemostat (Surgicel). </div> 
+<div style="text-align: justify"> The tumor specimen was sent to pathology. The surgical bed was subsequently irrigated until clear hemostasis was achieved utilizing a combination of bipolar electrocautery and oxidized cellulose absorbable hemostat (Surgicel) and liquid hemostat (Surgiflo) . </div> 
 
-<div style="text-align: justify"> Periostium reconstruction to cover the duramater defect ... closed with running non-absorbable braided 4-0 silk suture. 
-  Bone drilling of internal table until healthy bone was noted. The bone was secured in place utilizing plates and screws. Subcutaneous layer was sutured with simple inverted 
+<div style="text-align: justify"> The large duramater defect was then reconstructed, with a large patch of autologus periostium that had been harvested in the early steps of the surgery, and sutured with a running non-absorbable braided 4-0 silk suture. The internal table of the calvarial bone was drilled down until healthy bone was noted. The bone flap was then secured in place utilizing plates and screws. Subcutaneous layer was sutured with simple inverted 
   knots of 2-0 synthetic absorbable suture (Polysorb). The skin was then closed with an intradermal running absorbable suture 3-0 
   (Monosyn). A small silicon Blake drainage was placed in the subperiosteal space. A sterile head dressing was placed over the closed wound.</div> 
 
@@ -65,7 +52,7 @@ Meningioma WHO II
 
 ### POSTOPERATIVE EVOLUTION: 
 <div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of pressure feeling and headache. Postoperative 
-  CT showed gross total resection with no complications. Dexamethasone and Levetiracetam were maintained for several weeks and discontinued slower than in standard cases due to removal of giant tumor (>60mm in diameter) that produces drastic change in intracranial pressure and potential exacerbated edema. Discharge was given at postoperative day 7 with appointments for follow up. </div> 
+  CT showed gross total resection with no complications. Dexamethasone and Levetiracetam were maintained for several weeks and discontinued slower than in standard cases, due to removal of giant tumor (>60mm in diameter) that produces a drastic change in intracranial pressure and potential exacerbated edema. Discharge was given at postoperative day 7 with appointments for follow up. </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/falcinemeningioma_post.png" alt="ddd" height="300" width="250">
@@ -74,9 +61,11 @@ Meningioma WHO II
 ### NUANCES AND DECISION STRATEGY
 - CT bone - study abnormal anatomy of affected bone and venous drainage - diploic veins anatomy - prepare blood transfusion hemostats
 - MRI - study vasculature of scalp and duramater that may feed the tumor - prevent important hemorrhage during craniotomy
--  Preoperative venous sequence MRI to study the venous system - patency occlusion of venous sinus and developed collaterals pathways
--  Avoid sacrifice of patent venous collaterals pathways - hypertrophic inferior sagital sinus
+- Preoperative venous sequence MRI to study the venous system - patency occlusion of venous sinus and developed collaterals pathways
+- Avoid sacrifice of patent venous collaterals pathways - hypertrophic inferior sagital sinus
 - T2 sequence - predicting consistency of tumor and relationship neurovascular structures like the cingulate and pericallosal arteries
+- Keep surgical field moist to avoid venous gas embolism and venous sinuses covered with moist cottonoids specially
+- Ligation temporal - wait for 10 min neurophysiology changes and effect on tissue congestion
 - Appropriate hidration and corticoid and antiepileptic medication - drastic change of pressure and decompresion
 
 ### RESOURCES
