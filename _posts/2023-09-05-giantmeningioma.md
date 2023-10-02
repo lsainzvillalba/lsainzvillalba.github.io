@@ -16,7 +16,7 @@ Large anterior falcine contrast enhancing mass
   a meningioma with important mass effect and edema. </div> 
 
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/falcinemeningioma_pre.png" alt="ddd" height="300" width="200">
+       <img src="https://lsainzvillalba.github.io/images/falcinemenignioma_pre.png" alt="ddd" height="300" width="200">
    </div>
 
 ### SURGICAL APPROACH:
