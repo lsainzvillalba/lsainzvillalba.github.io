@@ -36,7 +36,7 @@ Posterior parasagittal
   preoperative stereotactic MRI with his surface landmarks. </div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A linear parietal incision, parallel to the coronal suture, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. periostium disected separately and preserved in case of reconstruction.</div> 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A linear parietal incision, parallel to the coronal suture, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Periostium was disected separately and preserved in case of reconstruction.</div> 
 
 <div style="text-align: justify"> Right parietal parasagittal craniotomy was performed using an electric high speed drill. A burr-hole was placed at the anterior part of the frontospheoide suture (McCarthy) to expose both orbit and dura. After careful dissection of the periorbit from the superior orbital wall, the orbital roof was cut with the aid of a fine escoplo. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
   The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the 
