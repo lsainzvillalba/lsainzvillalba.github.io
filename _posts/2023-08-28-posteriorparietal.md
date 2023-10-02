@@ -13,16 +13,16 @@ Right posterior parietal hemorhagic contrast enhancing mass
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> MRI brain showed right parietal parasagittal extra-axial contrast enhancing mass with a recent hemorrhage compatible with 
-  a meningioma. </div> 
+  a meningioma. The MRI further demonstrated that the superior sagittal sinus was patent but partially invaded. Additionally, the meningioma continued along the sagittal sinus following the transverse sinus, to the posterior fossa where another small meningioma mass was present with no surrounding edema or compression.  </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/posteriorparietal1.png" alt="ddd" height="300" width="250">
    </div>
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/posteriorparietal2.png" alt="ddd" height="300" width="250">
+       <img src="https://lsainzvillalba.github.io/images/posteriorparietal2.png" alt="ddd" height="280" width="250">
    </div>
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/posteriorparietal3.png" alt="ddd" height="300" width="250">
+       <img src="https://lsainzvillalba.github.io/images/posteriorparietal3.png" alt="ddd" height="280" width="250">
    </div>
    
 ### SURGICAL APPROACH:
