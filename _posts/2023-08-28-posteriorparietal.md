@@ -3,41 +3,40 @@ title: 'Right posterior parietal meningioma'
 date: 2023-08-28
 permalink: /posts/2023/08/posteriorparietal/
 tags:
-  - Parasagital parietal
+  - Parasagittal parietal
   - Meningioma
 ---
 Right posterior parietal hemorhagic contrast enhancing mass
 
-# In progress ...
-
 ### HISTORY: 
-<div style="text-align: justify"> 43 year old female who is brought to the emergency room after suffering an episode of epileptic seizures. Radiographic findings were consistent with a left clinoidal mass. The neurological exam was normal. </div> 
+<div style="text-align: justify"> 46 year old male who is brought to the emergency room presenting a sudden weakness of left leg. The neurological exam was ... </div> 
 
 ### DIAGNOSTIC STUDY: 
-<div style="text-align: justify"> MRI brain showed left clinoidal extra-axial contrast enhancing mass compatible with 
+<div style="text-align: justify"> MRI brain showed right parietal parasagittal extra-axial contrast enhancing mass with a recent hemorrhage compatible with 
   a meningioma. </div> 
 
-<style>
-  video {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-<video src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma2.mov" width="380" height="500" controls autoplay></video>
-
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/posteriorparietal1.png" alt="ddd" height="300" width="250">
+   </div>
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/posteriorparietal2.png" alt="ddd" height="300" width="250">
+   </div>
+<div align="center">
+       <img src="https://lsainzvillalba.github.io/images/posteriorparietal3.png" alt="ddd" height="300" width="250">
+   </div>
+   
 ### SURGICAL APPROACH:
-Extended-pterional with extradural clinoidectomy
+Posterior parasagittal 
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
-  with the head slightly rotated (about 30 degrees) towards the right and extended such that the malar prominence would be the highest point
-  in the surgical field. All pressure points were well-padded. The hair was clipped over the planned incision. 
+  with the head and trunk slightly elevated . All pressure points were well-padded. The hair was clipped over the planned incision. 
   Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and 
-  baseline SSEPs, motor evoked potentials and, visual evoked potentials were obtained. The patient underwent co-registration of the 
-  preoperative stereotactic MRI with her surface landmarks. </div> 
+  baseline SSEPs and motor evoked potentials were obtained. The patient underwent co-registration of the 
+  preoperative stereotactic MRI with his surface landmarks. </div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A fronto-pterional incision from the midline to the root of the zygoma, behind the hair line was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Temporal muscle dissection was performed in two steps: interfascially below the frontal fat pad and then subperiostically to allow wider exposure and less tension on the muscle during the operation.</div> 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A linear parietal incision, parallel to the coronal suture, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. periostium disected separately and preserved in case of reconstruction.</div> 
 
 <div style="text-align: justify"> Left pterioral craniotomy was performed using an electric high speed drill with the frontal cut extending to the superior orbital rim lateral to the supraorbital nerve.A burr-hole was placed at the anterior part of the frontospheoide suture (McCarthy) to expose both orbit and dura. After careful dissection of the periorbit from the superior orbital wall, the orbital roof was cut with the aid of a fine escoplo. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
   The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the 
