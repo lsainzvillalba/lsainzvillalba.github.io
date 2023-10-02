@@ -76,7 +76,7 @@ Posterior parasagittal
   MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
 
 <div align="center">
-       <img src="https://lsainzvillalba.github.io/images/leftclinoidalmeningioma3.png" alt="ddd">
+       <img src="https://lsainzvillalba.github.io/images/posteriorparietal_post.png" alt="ddd" height="380" width="500">
    </div>
 
 ### NUANCES AND DECISION STRATEGY
@@ -85,8 +85,6 @@ Posterior parasagittal
 - Check for middle clinoid
 - T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
 - respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
-  
-  
 
 ### RESOURCES
 - [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
