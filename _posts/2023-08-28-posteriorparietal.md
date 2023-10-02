@@ -13,7 +13,7 @@ Right posterior parietal hemorhagic contrast enhancing mass
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> MRI brain showed right parietal parasagittal extra-axial contrast enhancing mass with a recent hemorrhage compatible with 
-  a meningioma. The MRI further demonstrated that the superior sagittal sinus was patent but partially invaded. Additionally, the meningioma continued along the sagittal sinus following the transverse sinus, to the posterior fossa where another small meningioma mass was present with no surrounding edema or compression.  </div> 
+  a meningioma. The MRI further demonstrated that the superior sagittal sinus was patent but partially invaded. Additionally, the meningioma continued along the sagittal sinus following the transverse sinus and the sigmoid sinus, to the posterior fossa, where another small meningioma mass was present with no surrounding edema or compression.  </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/posteriorparietal1.png" alt="ddd" height="300" width="250">
@@ -38,7 +38,7 @@ Posterior parasagittal
 ### OPERATIVE TECHNIQUE:
 <div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A linear parietal incision, parallel to the coronal suture, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. periostium disected separately and preserved in case of reconstruction.</div> 
 
-<div style="text-align: justify"> Left pterioral craniotomy was performed using an electric high speed drill with the frontal cut extending to the superior orbital rim lateral to the supraorbital nerve.A burr-hole was placed at the anterior part of the frontospheoide suture (McCarthy) to expose both orbit and dura. After careful dissection of the periorbit from the superior orbital wall, the orbital roof was cut with the aid of a fine escoplo. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
+<div style="text-align: justify"> Right parietal parasagittal craniotomy was performed using an electric high speed drill. A burr-hole was placed at the anterior part of the frontospheoide suture (McCarthy) to expose both orbit and dura. After careful dissection of the periorbit from the superior orbital wall, the orbital roof was cut with the aid of a fine escoplo. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
   The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the 
   midline was performed and the dura was lifted with tenting sutures. </div> 
 
@@ -80,13 +80,11 @@ Posterior parasagittal
    </div>
 
 ### NUANCES AND DECISION STRATEGY
-- 
 - Extradural clinoidectomy - 
 - Visual evoked potentials - before awake as a final result - later the eyelid will be swollen
 - Check for middle clinoid
 - T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
 - respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
-- 
   
   
 
