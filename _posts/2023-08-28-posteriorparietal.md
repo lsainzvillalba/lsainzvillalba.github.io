@@ -49,6 +49,9 @@ Posterior parasagittal
 <div style="text-align: justify"> Neurophysiological monitoring showed improvement in MEPs of the left leg respect to the baseline obtained at the beginning of surgery. All sponge and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred 
 to the recovery room in stable condition.</div> 
 
+### HISTOLOGICAL DIAGNOSIS: 
+Meningioma WHO I 
+
 ### POSTOPERATIVE EVOLUTION: 
 <div style="text-align: justify"> The patient awaken without new neurological deficits and with subjective improvement of the strength in the left leg. Over the postoperative days, the patient started to gain strength and initiated walking with the help of a walker. Proximal weakness improved greatly allowing him to stand autonomously. However, distal strength improved more slowly and the left foot drop interfered greatly in his walk pattern. Postoperative MRI showed gross total resection of the mass with no complications, with persistent disease along the venous system and posterior fossa. Antithrombotic therapy was introduced following guidelines as in standard cases, but maintained for a longer period to avoid thrombosis of manipulated veins and partially occluded sagittal sinus. Discharge was given at postoperative day 5 with appointments for follow up and rehabilitaion protocol. </div> 
 
