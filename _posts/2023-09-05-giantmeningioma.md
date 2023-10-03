@@ -27,7 +27,7 @@ Bicoronal Midline extended parasagittal
   with the head slightly flexed and elevated. Legs were also flexed and kept high, placing the bed axis such that the head stayed slightly below the level of the heart. All pressure points were well-padded. The hair was clipped over the planned incision. 
   Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and 
   baseline SSEPs and motor evoked potentials were obtained. The patient underwent co-registration of the 
-  preoperative stereotactic MRI with her surface landmarks. The craniotomy was outlined according to the registration to expose healthy duramater margins.</div> 
+  preoperative stereotactic MRI with his surface landmarks. The craniotomy was outlined according to the registration to expose healthy duramater margins.</div> 
 
 ### OPERATIVE TECHNIQUE:
 <div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A bicoronal incision behind the hair line and centered on the lesion, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. A large periostium flap was dissected separately and preserved for later reconstruction of the duramater. The scalp and the external table of the calvaria bone were noted as normal with no hypertrophic arteries.</div> 
@@ -36,7 +36,7 @@ Bicoronal Midline extended parasagittal
 
 <div style="text-align: justify"> The operating microscope was then draped and brought into the operative field. Initial durotomy was performed bilateraly in a C-fashion with base towards the midline and in healthy duramater. The lesion was noted to be whitish in color with rubbery consistency and clear-defined planes. Using a combination 5-French suction, bipolar electrocautery, as well as micro-scissors a plane was developed around the lesion in both lateral borders at each of both sides of the interhemispheric fissure. The tumor capsule was dissected from the cortical surface and cauterized shrinking and devascularizing the tumor to proceed with a piecemeal resection also using the ultrasonic aspirator for debulking. In the most inferior and deep margin of the tumor, feeding arteries that came from the cingulate and pericallosal arteries were cauterized and cut. The affected falx and venous segment in the superior sagittal sinus were tackled the last, to avoid compromising the venous drainage of the tumor while resecting it.  </div> 
 
-<div style="text-align: justify"> , To remove the affected falx, origin of the tumor, first, the superior sagittal sinus was temporarly clipped to prove that effective venous outflow was residual. After 10 minutes of unchanged neurophysiology monitoring and no edema development, the affected segment of the sinus was ligated and cut. The falx was then further cut down to the inferior margin and removed "en-bloc", reaching healthy dura, sparing the inferior sagittal sinus that had developed as a collateral pathway and was hypertrophic.  </div> 
+<div style="text-align: justify"> , To remove the affected falx, origin of the tumor, first, the superior sagittal sinus was temporarly clipped to prove that effective venous outflow was residual. After 10 minutes of unchanged neurophysiology monitoring and no edema development, the affected segment of the sinus was ligated and cut. The falx was then further cut down to the inferior margin and removed "en-bloc", reaching healthy dura, sparing the inferior sagittal sinus that had developed as a collateral pathway and was hypertrophic. Therefore, Simpson grade I was achieved.  </div> 
 
 <div style="text-align: justify"> The tumor specimen was sent to pathology. The surgical bed was subsequently irrigated until clear hemostasis was achieved utilizing a combination of bipolar electrocautery and oxidized cellulose absorbable hemostat (Surgicel) and liquid hemostat (Surgiflo) . </div> 
 
@@ -47,7 +47,7 @@ Bicoronal Midline extended parasagittal
 <div style="text-align: justify"> Neurophysiological monitoring remained stable throughout the entire case. All sponge and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred 
   to the recovery room in stable condition.</div> 
 
-### POSTOPERATIVE EVOLUTION: 
+### HISTOLOGICAL DIAGNOSIS: 
 Meningioma WHO II
 
 ### POSTOPERATIVE EVOLUTION: 
