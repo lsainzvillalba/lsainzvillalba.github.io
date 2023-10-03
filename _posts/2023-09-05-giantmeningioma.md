@@ -1,5 +1,5 @@
 ---
-title: 'Giant anterior falcine meningioma'
+title: 'Giant Anterior Falcine Meningioma'
 date: 2023-09-05
 permalink: /posts/2023/09/giantmeningioma/
 tags:
