@@ -57,16 +57,18 @@ to the recovery room in stable condition.</div>
    </div>
 
 ### NUANCES AND DECISION STRATEGY
-- MRI venous system - venous sinus patent - study cortical vein anatomy
-- Do not attempt Simpson grade I with patent sinus if reconstruction of venous flow is not possible
+- Study preoperative venous MRI - study venous system anatomy and check patency of infiltrated venous sinsuses
+- Do not attempt Simpson grade I with patent sinus if reconstruction of sinus venous flow is not possible
+- Ressection of a venous sinus segment without reconstruction is only tolerated in completely occluded sinuses or very anterior segments of superior sagittal sinus.
 - Do not sacrifice cortical bridging veins -- parietal are thick - mortality  postoperative edema
-- Venous congestion hemorrhage and venous infarction - edema raised intracranial pressure
-- higher incidence of brain venous thrombosis
-- -air embolism / hemostasis , prepare surgical maneauvers to avoid it, increase venous pressure, trendelemburg irrigation, central venous line to absorb bubbles, positioning
+- Study anatomy of venous collateral pathways that developed because of the tumor, and preserve them
+- Parietal region is very rich in venous drainage so interruption or sacrifice of venous flow can lead to venous congestion, hemorrhage and venous infarction - Postoperative mortality rate is still high, as compared to other procedures and locations, and related to raised intracranial pressure due to secondary edema after interruption of venous flow due to surgical strategy or postoperative thrombosis
+- Be prepared and prevent air embolism keeping venous sinuses covered with moist cottonoids at all times. Constantly monitor with the anesthesiology team and in case of an event use Trendelemburg positioning lowering the surgical field height below the heart level to increase venous pressure and irrigate copiously.
+- Accessible central venous line to absorb air bubbles is mandatory
 
 ### RESOURCES
 - [Parasagittal approach ](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/parasagittal-craniotomy)
 - [Perioperative and long term outcomes](https://journals.lww.com/neurosurgery/abstract/2010/10000/perioperative_and_long_term_outcomes_from_the.14.aspx)
-- https://journals.lww.com/neurosurgery/citation/2002/10001/the_cerebral_veins.5.aspx
-- book venous reconstruction and procedures
-- paper 
+- [Anatomy of the cerebral veins](https://journals.lww.com/neurosurgery/citation/2002/10001/the_cerebral_veins.5.aspx)
+- [Microsurgery of cerebral veins: Venous reconstruction strategy and techniques](https://link.springer.com/book/10.1007/978-3-7091-7018-2)
+- [Surgical strategies in parasagittal meningioma surgery](https://pubmed.ncbi.nlm.nih.gov/23330997/)
