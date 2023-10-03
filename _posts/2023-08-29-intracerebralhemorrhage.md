@@ -4,7 +4,7 @@ date: 2023-08-29
 permalink: /posts/2023/08/intracerebralhemorrhage/
 tags:
   - ICH intracerebral hemorrahge
-  - Amyloid angiopathy
+  - Angiopathy
 ---
 Spontaneous intracerebral hemorrhage in a comatous patient
 
@@ -33,7 +33,7 @@ Frontoparietal craniotomy
 
 <div style="text-align: justify"> Left fronto-parietal-temporal craniotomy was performed following a decompressive craniectomy procedure using an electric high speed drill. A burr-hole was placed at the pterion (key hole), and in the posterior temporal line. After careful dissection of the dura in each burr-hole, the craniotomy was completed with a craniotome. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the middle temporal artery. The dura was noted to be intact and tense. The bone dust was irrigated and suctioned clean. A wide C-shaped durotomy with base towards the sphenoidal ridge was performed. </div> 
 
-<div style="text-align: justify"> Upon initial inspection a small component of subdural hematoma was noted and removed. The cortical surface appeared to be normal except for a decreased pulsation and a ruptured pia at the superior temporal gyrus just below the sylvian point, were the hematoma came to the surface. Using a combination 7-French suction, bipolar electrocautery and copious use of cottonoids, the blood clots were removed. The hemorrhage was deep seated and probably originating from deep white matter (amyloid angiopathy). No major vascular structure was noted to be involved and the hemorrhage had dissected white matter tracts, by expansion, below the insular cortex. </div> 
+<div style="text-align: justify"> Upon initial inspection a small component of subdural hematoma was noted and removed. The cortical surface appeared to be normal except for a decreased pulsation and a ruptured pia at the superior temporal gyrus just below the sylvian point, were the hematoma came to the surface. Using a combination 7-French suction, bipolar electrocautery and copious use of cottonoids, the blood clots were removed. The hemorrhage was deep seated and probably originating from deep white matter (angiopathy). No major vascular structure was noted to be involved and the hemorrhage had dissected white matter tracts of uncinate and arcuate fascicle, by expansion, below the insular cortex. </div> 
 
 <div style="text-align: justify"> The surgical bed was subsequently irrigated until clear hemostasis was achieved utilizing a 
   combination of bipolar electrocautery, irrigation and liquid hemostat (Surgiflo). </div> 
@@ -43,7 +43,7 @@ Frontoparietal craniotomy
 <div style="text-align: justify">  All sponge and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred to the intensive care unit, sedated, in stable condition.</div> 
 
 ### POSTOPERATIVE EVOLUTION: 
-<div style="text-align: justify"> The patient was kept sedated with hemodinamic stability for 48 h with CT radiographic control that showed no complications and complete removal of the hemorrhage with no new bleeding. The patient was slowly awaken  </div> 
+<div style="text-align: justify"> The patient was kept sedated with hemodinamic stability for 48 h with CT radiographic control that showed no complications and complete removal of the hemorrhage with no new rebleeding. The patient was slowly awaken  </div> 
 
 <style>
   video {
@@ -54,11 +54,12 @@ Frontoparietal craniotomy
 <video src="https://lsainzvillalba.github.io/images/ICH_post.mov" width="380" height="500" controls autoplay></video>
 
 ### NUANCES AND DECISION STRATEGY
-- Consider angioCT for hemorrhage in locations near relevant arteries to rule out vascular lesions like aneurysms
+- Consider angioCT for hemorrhage in locations near relevant arteries to rule out vascular lesions 
 - Plan craniotomy as for a decompressive craniectomy and prepare intracranial pressure sensor (ideally intraventricular)
 
   
 ### RESOURCES
-- [Decompresive craniectomy] (https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
-- [ICH Prognosis scale](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
-- [Hemorrhage] (https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
+- [Decompresive craniectomy](https://thejns.org/focus/view/journals/neurosurg-focus/28/5/2010.3.focus1028.xml#container-27572-item-27560)
+- [ICH Prognosis scale](https://www.mdcalc.com/calc/402/intracerebral-hemorrhage-ich-score)
+- [Surgery for Intracranial Hemorrhage](https://link.springer.com/article/10.1186/s13054-020-2749-2)
+- [2022 AHA Guidelines](https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000407)
