@@ -1,5 +1,5 @@
 ---
-title: 'Spontaneous intracerebral hemorrhage'
+title: 'Spontaneous Intracerebral Hemorrhage'
 date: 2023-08-29
 permalink: /posts/2023/08/intracerebralhemorrhage/
 tags:
@@ -11,11 +11,10 @@ Spontaneous intracerebral hemorrhage in a comatous patient
 # In progress ...
 
 ### HISTORY: 
-<div style="text-align: justify"> 43 year old female who is brought to the emergency room after suffering an episode of epileptic seizures. Radiographic findings were consistent with a left clinoidal mass. The neurological exam was normal. </div> 
+<div style="text-align: justify"> 76 year old female who is brought to the emergency room after she required intubation due to a sudden loss of conciousness. CT radiographic findings were consistent with a left sided acute hemorrhage. The neurological exam revealed.... </div> 
 
 ### DIAGNOSTIC STUDY: 
-<div style="text-align: justify"> MRI brain showed left clinoidal extra-axial contrast enhancing mass compatible with 
-  a meningioma. </div> 
+<div style="text-align: justify"> Emergent CT scan showed ... midline, edema, location . </div> 
 
 <style>
   video {
@@ -26,10 +25,10 @@ Spontaneous intracerebral hemorrhage in a comatous patient
 <video src="https://lsainzvillalba.github.io/images/ICH_pre.mov" width="380" height="500" controls autoplay></video>
 
 ### SURGICAL APPROACH:
-Extended-pterional with extradural clinoidectomy
+Frontoparietal craniotomy
 
 ### POSITIONING: 
-<div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
+<div style="text-align: justify"> size craniotomy as for decompressive craniectomy, parenquimal pressure sensor, expected swelling,A Mayfield head clamp was applied. The patient was placed in supine position 
   with the head slightly rotated (about 30 degrees) towards the right and extended such that the malar prominence would be the highest point
   in the surgical field. All pressure points were well-padded. The hair was clipped over the planned incision. 
   Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and 
@@ -85,14 +84,11 @@ Extended-pterional with extradural clinoidectomy
 <video src="https://lsainzvillalba.github.io/images/ICH_post.mov" width="380" height="500" controls autoplay></video>
 
 ### NUANCES AND DECISION STRATEGY
-- 
-- Extradural clinoidectomy - 
-- Visual evoked potentials - before awake as a final result - later the eyelid will be swollen
-- Check for middle clinoid
+- as for decompressive craniectomy, subdural sensor, intraparenchimal sensor , intraventricular sensor
 - T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
 - respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
 
 ### RESOURCES
-- [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
-- [Extradural clinoidectomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
-- [Pterional surgical anatomy](https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
+- [Decompresive craniectomy] (https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
+- [ICH Prognosis scale](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
+- [Hemorrhage] (https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
