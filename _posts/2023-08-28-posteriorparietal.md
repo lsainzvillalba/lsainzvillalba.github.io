@@ -1,5 +1,5 @@
 ---
-title: 'Right posterior parietal meningioma'
+title: 'Right Posterior Parietal Meningioma'
 date: 2023-08-28
 permalink: /posts/2023/08/posteriorparietal/
 tags:
@@ -53,7 +53,7 @@ to the recovery room in stable condition.</div>
 Meningioma WHO I 
 
 ### POSTOPERATIVE EVOLUTION: 
-<div style="text-align: justify"> The patient awaken without new neurological deficits and with subjective improvement of the strength in the left leg. Over the postoperative days, the patient started to gain strength and initiated walking with the help of a walker. Proximal weakness improved greatly allowing him to stand autonomously. However, distal strength improved more slowly and the left foot drop interfered greatly in his walk pattern. Postoperative MRI showed gross total resection of the mass with no complications, with persistent disease along the venous system and posterior fossa. Antithrombotic therapy was introduced following guidelines as in standard cases, but maintained for a longer period to avoid thrombosis of manipulated veins and partially occluded sagittal sinus. Discharge was given at postoperative day 5 with appointments for follow up and rehabilitaion protocol. </div> 
+<div style="text-align: justify"> The patient awaken without new neurological deficits and with subjective improvement of the strength in the left leg. Over the postoperative days, the patient started to gain strength and initiated walking with the help of a walker. Proximal weakness improved greatly allowing him to stand autonomously. However, distal strength improved more slowly and the left foot drop interfered greatly in his walk pattern. Postoperative MRI showed gross total resection of the mass with no complications, with persistent disease along the venous system and posterior fossa. Antithrombotic therapy was introduced following guidelines as in standard cases, but maintained for a longer period to avoid thrombosis of manipulated veins and partially occluded sagittal sinus. Discharge was given at postoperative day 5 with appointments for follow up and rehabilitation protocol. </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/posteriorparietal_post.png" alt="ddd" height="380" width="500">
