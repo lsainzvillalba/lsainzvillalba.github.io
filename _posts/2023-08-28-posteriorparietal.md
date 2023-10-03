@@ -9,7 +9,7 @@ tags:
 Right posterior parietal hemorhagic contrast enhancing mass
 
 ### HISTORY: 
-<div style="text-align: justify"> 46 year old male who is brought to the emergency room presenting a sudden weakness of left leg. The neurological exam was ... </div> 
+<div style="text-align: justify"> 46 year old male who is brought to the emergency room presenting a sudden weakness of the left leg. The neurological exam showed a left leg paresis that precluded stand up position and walking. By segments, strength was 2/5 in all proximal groups and 1/5 in distal ones. Hypoesthesia was also present distally. The rest of the examination appeared normal. </div> 
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> MRI brain showed right parietal parasagittal extra-axial contrast enhancing mass with a recent hemorrhage compatible with 
