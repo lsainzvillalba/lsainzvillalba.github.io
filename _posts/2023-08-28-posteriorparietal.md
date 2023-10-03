@@ -30,63 +30,43 @@ Posterior parasagittal
 
 ### POSITIONING: 
 <div style="text-align: justify"> A Mayfield head clamp was applied. The patient was placed in supine position 
-  with the head and trunk slightly elevated . All pressure points were well-padded. The hair was clipped over the planned incision. 
+  with the head and trunk slightly flexed and elevated but keeping them at heart level. All pressure points were well-padded. The hair was clipped over the planned incision. 
   Pre-prepping was done with chlorhexidine solution. The electrophysiology monitoring team inserted needles in their proper locations and 
   baseline SSEPs and motor evoked potentials were obtained. The patient underwent co-registration of the 
   preoperative stereotactic MRI with his surface landmarks. </div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A linear parietal incision, parallel to the coronal suture, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Periostium was disected separately and preserved in case of reconstruction.</div> 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A linear parietal incision, parallel to the coronal suture, was planned and infiltrated with lidocaine and opened sharply using a #21 scalpel blade. Periostium was disected separately and preserved in case of dura reconstruction.</div> 
 
-<div style="text-align: justify"> Right parietal parasagittal craniotomy was performed using an electric high speed drill. A burr-hole was placed at the anterior part of the frontospheoide suture (McCarthy) to expose both orbit and dura. After careful dissection of the periorbit from the superior orbital wall, the orbital roof was cut with the aid of a fine escoplo. The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagital sinus. 
-  The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the 
-  midline was performed and the dura was lifted with tenting sutures. </div> 
+<div style="text-align: justify"> Right parietal parasagittal craniotomy was performed using an electric high speed drill. Four small burr-holes were placed at the corners of the craniotomy, dissecting the dura over the sinus from the skull.The bone flap was uplifted utilizing a combination of #3 Penfield and Adson periosteal elevator with special care for the midline sagittal sinus. The dura was noted to be intact. The bone dust was irrigated and suctioned clean. A small C-shaped durotomy with base towards the midline was performed and the dura was lifted with tenting sutures, keeping the dura over the sinus moist and without tension. </div> 
 
-<div style="text-align: justify"> The operating microscope was then draped and brought into the operative field. Careful dissection 
-  of the interhemispheric fissure was carried out anteriorly and posteriorly and down to the pericallosal cistern, letting the right 
-  medial cortical surface lower by gravity. Cottonoids were placed on bridging cortical veins, the sagittal sinus and keeping and, 
-  the medial surface of the superior frontal gyrus keeping them moist throughout the procedure. With the aid of the neuronavigational 
-  probe, the limits of the tumor in the medial surface were identified. Microdissection technique was used further to expose the 
-  cingulate sulcus and separate the callosomarginal artery cutting multiple arachnoid adhesions.  Under blue light and guided with 5-ALA 
-  the medial surface of the tumor was visualized. A small corticectomy and tissue sample were centered at the most fluorescent spot 
-  for intraoperative biopsy that confirmed high grade glioma. </div> 
+<div style="text-align: justify"> The operating microscope was then draped and brought into the operative field. The tumor was immediately in sight with two large cortical bridging veins on its surface that drained to the sagittal sinus. The lesion was noted to be gray-redish in color with rubbery consistency and well-defined planes. It was also congested and prompted to bleed with any attempt to manipulate it.  Careful dissection of the interhemispheric fissure was carried out to identify clear tumor margins and dissect them from the cortical surface. Cottonoid patties were placed on the cortical surface to avoid injury during dissection and were kept moist throughout the procedure. The attached cortical bridging veins were dissected from the superior tumor capsule and preserved. Microdissection technique was further used to slowly devascularize the tumor and debulk it in a piecemeal fashion. A small intratumoral hemorrhage was noted and suctioned, matching the radiological findings. Continous hemostasis with bipolar electrocautery, oxidized cellulose absorbable hemostat (Surgicel) and liquid hemostat (Surgiflo) was necessary due to the high venous congestion of the tumor. Since the sagittal venous sinus was partially invaded and the meningioma spread all along it up to the posterior fossa, the resection was limited to the parietal mass (Simpson grade IV). The dural attachment of the tumor to the sinus was cauterized. </div> 
 
-<div style="text-align: justify"> The lesion was noted to be grayish in color with soft consistency and ill-defined planes. 
-  Using a combination 7-French suction, bipolar electrocautery, as well as micro-scissors a plane was developed around the lesion 
-  in its superior, medial border following the cingulate sulcus and 5-ALA signal. Microdissection continued around the lesion 
-  following the plane and using the neuronavigational probe and the 5-ALA signal to carefully guide the volumetric resection. </div> 
+<div style="text-align: justify"> The tumor specimen was sent to pathology.The surgical bed was subsequently irrigated until clear hemostasis was achieved. Cortical bridging veins remained intact and with proper flow. </div> 
 
-<div style="text-align: justify"> The tumor specimen was sent to pathology. Before hemostasis was performed, vasospasm affecting a 
-  small segment of the callosomarginal artery was noted and treated with irrigation of diluted nimodipin and body-temperature saline, 
-  resolving completely in few minutes. The surgical bed was subsequently irrigated until clear hemostasis was achieved utilizing a 
-  combination of bipolar electrocautery and oxidized cellulose absorbable hemostat (Surgicel). </div> 
+<div style="text-align: justify"> The parietal dura, which appeared healthy and separated from the original tumor, was subsequently closed with running non-absorbable braided 4-0 silk suture. The bone was secured in place utilizing plates and screws. Periostium and subcutaneous layer were sutured in separate plantes and with simple inverted knots of 2-0 synthetic absorbable suture (Polysorb). The skin was then closed with an intradermal running absorbable suture 3-0 (Monosyn). A small silicon Blake drainage was placed in the subperiosteal space. A sterile head dressing was placed over the closed wound.</div> 
 
-<div style="text-align: justify"> The dura was subsequently closed with running non-absorbable braided 4-0 silk suture. 
-  The bone was secured in place utilizing plates and screws. Periostium and subcutaneous layer were sutured with simple inverted 
-  knots of 2-0 synthetic absorbable suture (Polysorb). The skin was then closed with an intradermal running absorbable suture 3-0 
-  (Monosyn). A small silicon Blake drainage was placed in the subperiosteal space. A sterile head dressing was placed over the closed wound.</div> 
-
-<div style="text-align: justify"> Neurophysiological monitoring remained stable throughout the entire case. All sponge counts 
-  and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred 
-  to the recovery room in stable condition.</div> 
+<div style="text-align: justify"> Neurophysiological monitoring showed improvement in MEPs of the left leg respect to the baseline obtained at the beginning of surgery. All sponge and instrument counts were correct at the end of the case times two. The patient tolerated the procedure well and was transferred 
+to the recovery room in stable condition.</div> 
 
 ### POSTOPERATIVE EVOLUTION: 
-<div style="text-align: justify"> The patient awaken with no complications and with subjective improvement of both leg clumsiness 
-  and slow thought. The walking pattern improved and the patient was socially more responsive as noted by his family. Postoperative 
-  MRI showed gross total resection with no complications. Discharge was given at postoperative day 5 with appointments for oncological follow up. </div> 
+<div style="text-align: justify"> The patient awaken without new neurological deficits and with subjective improvement of the strength in the left leg. Over the postoperative days, the patient started to gain strength and initiated walking with the help of a walker. Proximal weakness improved greatly allowing him to stand autonomously. However, distal strength improved more slowly and the left foot drop interfered greatly in his walk pattern. Postoperative MRI showed gross total resection of the mass with no complications, with persistent disease along the venous system and posterior fossa. Antithrombotic therapy was introduced following guidelines as in standard cases, but maintained for a longer period to avoid thrombosis of manipulated veins and partially occluded sagittal sinus. Discharge was given at postoperative day 5 with appointments for follow up and rehabilitaion protocol. </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/posteriorparietal_post.png" alt="ddd" height="380" width="500">
    </div>
 
 ### NUANCES AND DECISION STRATEGY
-- Extradural clinoidectomy - 
-- Visual evoked potentials - before awake as a final result - later the eyelid will be swollen
-- Check for middle clinoid
-- T2 sequence - predicting consistency of tumor and natural subarachnoid spaces o and relationship to middle cerebral artery branches
-- respect internal temporal muscle fascia  and do not cut a cuff to avoid atrophy and reattach it to the superior temporal line
+- MRI venous system - venous sinus patent - study cortical vein anatomy
+- Do not attempt Simpson grade I with patent sinus if reconstruction of venous flow is not possible
+- Do not sacrifice cortical bridging veins -- parietal are thick - mortality  postoperative edema
+- Venous congestion hemorrhage and venous infarction - edema raised intracranial pressure
+- higher incidence of brain venous thrombosis
+- -air embolism / hemostasis , prepare surgical maneauvers to avoid it, increase venous pressure, trendelemburg irrigation, central venous line to absorb bubbles, positioning
 
 ### RESOURCES
-- [Pterional approach and variations](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
-- [Extradural clinoidectomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/clinoidectomy/extradural-clinoidectomy)
-- [Pterional surgical anatomy](https://www.cureus.com/articles/23943-immersive-surgical-anatomy-of-the-frontotemporal-orbitozygomatic-approach#!/)
+- [Parasagittal approach ](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/parasagittal-craniotomy)
+- [Perioperative and long term outcomes](https://journals.lww.com/neurosurgery/abstract/2010/10000/perioperative_and_long_term_outcomes_from_the.14.aspx)
+- https://journals.lww.com/neurosurgery/citation/2002/10001/the_cerebral_veins.5.aspx
+- book venous reconstruction and procedures
+- paper 
