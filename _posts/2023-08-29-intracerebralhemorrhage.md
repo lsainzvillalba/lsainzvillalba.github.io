@@ -11,7 +11,7 @@ Spontaneous intracerebral hemorrhage in a comatous patient
 # In progress ...
 
 ### HISTORY: 
-<div style="text-align: justify"> 76 year old female who is brought to the emergency room after she required intubation due to a sudden loss of conciousness. CT radiographic findings were consistent with a left sided acute hemorrhage. The neurological exam revealed.... </div> 
+<div style="text-align: justify"> 76 year old female who is brought to the emergency room due to a sudden loss of conciousness requiring intubation. CT radiographic findings were consistent with a left peri-insular acute hemorrhage. The neurological exam before intubation revealed a Glasgow Coma Scale 8 (O2 V2 M5) with symmetric and reactive pupils, no abnormal brainstem reflexes, left sided plegia including face and left Babinski response. </div> 
 
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> Emergent CT scan showed ... midline, edema, location . </div> 
