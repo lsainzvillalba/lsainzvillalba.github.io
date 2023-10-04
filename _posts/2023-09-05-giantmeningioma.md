@@ -12,8 +12,7 @@ Large anterior falcine contrast enhancing mass
 <div style="text-align: justify"> 38 year old male who presents with a history of non-controlled headaches. He came to the emergency room suffering a severe headache episode. Radiographic findings were consistent with a large falcine mass. Besides subtle underperformance on daily cognitive tasks, the neurological exam was normal . </div> 
 
 ### DIAGNOSTIC STUDY: 
-<div style="text-align: justify"> MRI brain showed large anterior falcine contrast enhancing mass compatible with 
-  a meningioma with important mass effect and edema. </div> 
+<div style="text-align: justify"> MRI brain showed large anterior falcine contrast enhancing mass, with complete invasion and occlusion of mid-anterior segment of the superior sagittal sinus,  compatible with a meningioma with important mass effect and edema. </div> 
 
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/falcinemenignioma_pre.png" alt="ddd" height="300" width="215">
@@ -59,18 +58,17 @@ Meningioma WHO II
    </div>
 
 ### NUANCES AND DECISION STRATEGY
-- CT bone - study abnormal anatomy of affected bone and venous drainage - diploic veins anatomy - prepare blood transfusion hemostats
+- CT bone - study abnormal anatomy of affected bone and venous drainage - diploic veins anatomy and scalp artery
+- Prepare blood transfusion and hemostats 
 - MRI - study vasculature of scalp and duramater that may feed the tumor - prevent important hemorrhage during craniotomy
 - Preoperative venous sequence MRI to study the venous system - patency occlusion of venous sinus and developed collaterals pathways
-- Avoid sacrifice of patent venous collaterals pathways - hypertrophic inferior sagital sinus
-- T2 sequence - predicting consistency of tumor and relationship neurovascular structures like the cingulate and pericallosal arteries
+- Avoid sacrifice of patent venous collaterals pathways 
+- T2 sequence - predicting consistency of tumor and relationship neurovascular structures 
 - Keep surgical field moist to avoid venous gas embolism and venous sinuses covered with moist cottonoids specially
-- Ligation temporal - wait for 10 min neurophysiology changes and effect on tissue congestion
-- Appropriate hidration and corticoid and antiepileptic medication - drastic change of pressure and decompresion
+- Temporal ligation of venous sinus before cutting - wait for 10 min neurophysiology changes and effect on tissue congestion
+- Appropriate hidration, corticoid and antiepileptic medication in postoperative setting - drastic change of pressure and decompresion
 
 ### RESOURCES
-- BOOK VENous system
-- reconstruction venous sinuses
-- hemostasis venous
-- 
-
+- [Diploic veins anatomy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6559436/)
+- [Anatomy of the cerebral veins](https://journals.lww.com/neurosurgery/citation/2002/10001/the_cerebral_veins.5.aspx)
+- [Microsurgery of cerebral veins: Venous reconstruction strategy and techniques](https://link.springer.com/book/10.1007/978-3-7091-7018-2)
