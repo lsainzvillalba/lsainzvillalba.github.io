@@ -1,5 +1,5 @@
 ---
-title: 'Cerebellar metastasis'
+title: 'Cerebellar Metastasis'
 date: 2023-09-01
 permalink: /posts/2023/09/cerebellarmetastasis/
 tags:
@@ -51,7 +51,7 @@ Suboccipital Infratentorial Supracerebellar
 Lung Cancer Epidermoid Metastasis
 
 ### POSTOPERATIVE EVOLUTION: 
-<div style="text-align: justify"> The patient awaken with no complications. Dizziness and subjective stability during walking improved. Over the days, dysmetria improved but persisted as compared to the contralateral side. Postoperative MRI showed gross total resection with no complications. Discharge was given at postoperative day 7 with appointments for oncological follow up and rehabilitation. </div> 
+<div style="text-align: justify"> The patient awaken with no complications. Dizziness and subjective stability during walking improved. Over the days, dysmetria improved but remained assymetric to the contralateral side. Postoperative MRI showed gross total resection with no complications. Discharge was given at postoperative day 7 with appointments for oncological follow up and rehabilitation. </div> 
 
 
 ### NUANCES AND DECISION STRATEGY
@@ -61,6 +61,8 @@ Lung Cancer Epidermoid Metastasis
 - U shape dura incision and keeping the dura tense and moist during surgery allows a good closure reducing risk of CSF leak
 - Dissect the inferior border of occipital bone from the foramen magnum duramater to avoid traction during the elevation of the bone flap
 with Kerrison #1
+- Protect healthy tissue surrounding the tumor with cottonoids and attempt a en bloc removal of lesion
+- Cover CSF pathways like the foramen magnum cistern with cottonoids to reduce the risk of tumor cell seeding spread
 
 ### RESOURCES
 - [Suboccipital craniotomy approach](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/suboccipital-craniotomy)
