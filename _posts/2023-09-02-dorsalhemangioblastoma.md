@@ -15,8 +15,7 @@ Intradural intramedullary contrast enhancing lesion
 ### DIAGNOSTIC STUDY: 
 <div style="text-align: justify"> Dorsal MRI showed contrast enhancing mass compatible with 
   a hemangioblastoma... </div> 
-
-
+  
 ### SURGICAL APPROACH:
 Dorsal midline laminoplasty
 
@@ -26,9 +25,10 @@ Dorsal midline laminoplasty
   baseline SSEPs and motor evoked potentials were obtained. Baseline SSEPs showed slight decrease on the right leg. </div> 
 
 ### OPERATIVE TECHNIQUE:
-<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A midline incision was done sharply using a #21 scalpel blade. Subcutaneous dissection was performed with monopolar electrocautery reaching the fascial plane. The midline fascia was incised sparing the interspinous ligament, and further proceeded with subperiostic dissection of the laminae. And Adson separator was placed to expose the laminae plane. Plates and screws were plepated for later laminoplasty. With the use of Kerrison #2, small notches at the inferior border of each lamina were done. This helped to perform the lamina cuts with the aid of a craniotome. The three level lamina of levels D5-7 were uplifted en bloc utilizing a #3 Penfield with special care to the duramater. The dura was noted to be intact. Hemostasis of the epidural space was performed with oxidized cellulose hemostat (Surgicel). 
+<div style="text-align: justify"> The area was prepped and draped in the standard sterile fashion. A midline incision was done sharply using a #21 scalpel blade. Subcutaneous dissection was performed with monopolar electrocautery reaching the fascial plane. The midline fascia was incised sparing the interspinous ligament, and further proceeded with subperiostic dissection of the laminae. And Adson separator was placed to expose the laminae plane. Plates and screws were plepated for later laminoplasty. With the use of Kerrison #2, small notches at the inferior border of each lamina were done. This helped to perform the lamina cuts with the aid of a craniotome. The three level lamina of levels D5-7 were uplifted en bloc utilizing a #3 Penfield with special care to the duramater. The dura was noted to be intact. Hemostasis of the epidural space was performed with oxidized cellulose hemostat (Surgicel). </div> 
 
 <div style="text-align: justify"> The operating microscope was then draped and brought into the operative field. A midline linear durotomy with a #11 scalpel blade using a Milligan dissector in the subdural space guiding the cut. The dura was lifted laterally to both sides with tenting sutures. A caudal electrode was placed in epidural space to record D-wave throughout the case. The tumor was evident from first inspection prtruding into the subarachnoid space. First steps of dissection were focused on identifying involved roots, pial feeding arteries and importantly, the drainage vein of the tumor located at the cranial pole. </div> 
+
 <div align="center">
        <img src="https://lsainzvillalba.github.io/images/hemangioblastoma1.png" alt="ddd" width="400" height="280">
    </div>
