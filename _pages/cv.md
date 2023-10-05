@@ -40,7 +40,13 @@ redirect_from:
 * “Oscillatory Brain Activity in Morphological Parsing of Complex Words: Information Gain from Stems and Suffixes” Sainz, LV, Sainz JS, Lazaro M, Oct 2018. J Neurol Neurosci [DOI:10.21767/2171-6625.1000271](https://www.researchgate.net/publication/328743209_Oscillatory_Brain_Activity_in_Morphological_Parsing_of_Complex_Words_Information_Gain_from_Stems_and_Suffixes)
 * “Chronic overdrainage syndrome: Pathophysiological insights based on ICP analysis” Sainz, LV, Hockel, K, Schuhmann, MU. October 2017. Childs Nerv Syst. [DOI: 10.1007/s00381-017-3650-4](https://link.springer.com/article/10.1007/s00381-017-3650-4)
 * ISSN neurosurgical approaches, “Transpalpebral approach” Sainz L.V, Abarca-Olivas J, González-López P. [https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/](https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/)
-  
+
+## Talks
+* Oral Presentation: “Hydrocephalus of venous origin”. LV.Sainz. Hydrocephalus Forum Pediätrie- Tübingen-Germany. Nov 2018. 
+* Oral Presentation: “Infant external hydrocephalus is a cerebrovenous disease”. LV. Sainz, ML.Laffitte, MU.Schuhmann. European Society of Pediatric Neurosurgery Congress- Bönn-Germany. May 2018
+* Oral Presentation: “Transpalpebral Approach: anatomic study”. LV.Sainz, J. Abarca-Olivas, P. Gonzalez-Lopez. Neurosurgical International Congress- NeuroIberia. Estoril-Portugal. May 2016
+* Oral Presentation: “Fluorescence guided resection in hemangioblastomas”. LV. Sainz, A. Lo Presti, M. Ramirez, L. Daoud,J.M De Campos. XVIII National Congress of Spanish Neurosurgery Society. Cadiz - Spain. May 2014.
+
 ## Teaching
 ======
 * Teaching assitant, 227-0421-00L  Learning in Deep Artificial and Biological Neuronal Networks, ETH Zurich, 2019-Current
@@ -52,7 +58,7 @@ redirect_from:
 ## Research and Professional Interests
 ======
 * Awake Neurosurgery and Brain mapping, Neuro-oncology, Pediatric and Functional Neurosurgery, Minimally invasive Keyhole Neurosurgery
-* Computational and Cognitive Neuroscience: Population codes, Categorization, Structure learning and abstraction, Dynamical systems, Information Theory.
+* Computational and Cognitive Neuroscience: Neural population codes, Structure learning and abstraction, Categorization theory, Dynamical systems, Information Theory.
 * Cognitive and Motor Rehabilitation, Neuromodulation and stimulation, Brain-Machine Interfaces, Intelligent Prosthetics
 
 ## Programming
@@ -63,6 +69,7 @@ redirect_from:
 
 ## Fellowships, Grants and, Awards
 ======
+* Nengo Summer School. Center for Theoretical Neuroscience. Waterloo-Canada. June 2023
 * Pediatric Neurosurgery Fellowship. Dept. of Neurosurgery. Eberhard Karls University. Tübingen-Germany. Feb-May 2017
 * Wolfram Computational Science Summer School Grant. Bentley University. Waltham MA-USA. July 2014
 * Ciberer Fellowship for Undergraduate Research, Molecular Biology Center Severo Ochoa, Madrid-Spain. Sep 2012 - May 2013
