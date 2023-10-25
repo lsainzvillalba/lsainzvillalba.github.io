@@ -80,6 +80,7 @@ redirect_from:
 ======
 * MS office, LaTEX
 * Graphical design: Photoshop, Inkscape
+* Database MySQL-Python - datajoint
 * Experimental design and Statistical analysis
 * Neural data analysis: Ca+2 imaging, EEG, functional MRI
 * Neural simulation models: Nengo
