@@ -82,4 +82,6 @@ redirect_from:
 * Graphical design: Photoshop, Inkscape
 * Experimental design and Statistical analysis
 * Neural data analysis: Ca+2 imaging, EEG, functional MRI
+* Neural simulation models: Nengo
+* Data analysis and Machine learning: Dimensionality reduction, Manifold learning, SVMs, Autoencoders, etc,...
 * Prototype development: Raspberry Pi & Arduino, 3D design (Fusion 360), 3D Printing
