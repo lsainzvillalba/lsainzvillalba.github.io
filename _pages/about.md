@@ -16,4 +16,4 @@ redirect_from:
 <br>
 <div style="text-align: justify"> I am currently finishing a PhD in Computational Neuroscience at the Institute of Neuroinformatics (ETH Zurich). </div> 
 
-<a href="https://lsainzvillalba.github.io/cv/" class="button">Google</a>
+<a href="https://lsainzvillalba.github.io/cv/" class="button">Curriculum</a>
