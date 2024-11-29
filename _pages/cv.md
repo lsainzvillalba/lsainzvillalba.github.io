@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 ======
+* Doctor of Sciences ETH Zurich in Computational Neuroscience, Zurich-Switzerland, 2024
 * Postgraduate training course Pediatric Neurosurgery ESPN, 2023
 * Fellow of the European Board of Neurological Surgery (FEBNS), 2019
 * Neurosurgery Training Residency, Fundación Jiménez Díaz Hospital, Madrid-Spain, 2013-2018
@@ -21,7 +22,9 @@ redirect_from:
 
 ## Professional Appointments
 ======
-* PhD candidate Computational Neuroscience, Institute of Neuroinformatics, ETH Zurich, Nov 2018 - Current
+* Neurosurgeon Fellow, Inselspital Bern, Inselgruppe, Nov 2024 - current
+* Postdoctoral researcher Computational Neuroscience, Institute of Neuroinformatics, ETH Zurich, Sept 2024 - current
+* Doctoral student Computational Neuroscience, Institute of Neuroinformatics, ETH Zurich, Nov 2018 - Sept 2024
 * Neurosurgery Staff Consultant, Quirón Salud Group, May-Nov 2018
 * Neurosurgery Resident, Fundación Jiménez Díaz Hospital, May 2013 - May 2018
 * Ciberer Fellow, Assistant Researcher in Neurobiology Lab, Sep 2012 - May 2013
@@ -42,6 +45,7 @@ redirect_from:
 * ISSN neurosurgical approaches, “Transpalpebral approach” Sainz L.V, Abarca-Olivas J, González-López P. [https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/](https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/)
 
 ## Talks
+* Oral Presentation: "" LV.Sainz, Furlong M. International Conference on Cognitive Modeling. Tilburg-Netherlands. July 2024.
 * Oral Presentation: “Hydrocephalus of venous origin”. LV.Sainz. Hydrocephalus Forum Pediätrie- Tübingen-Germany. Nov 2018. 
 * Oral Presentation: “Infant external hydrocephalus is a cerebrovenous disease”. LV. Sainz, ML.Laffitte, MU.Schuhmann. European Society of Pediatric Neurosurgery Congress- Bönn-Germany. May 2018
 * Oral Presentation: “Transpalpebral Approach: anatomic study”. LV.Sainz, J. Abarca-Olivas, P. Gonzalez-Lopez. Neurosurgical International Congress- NeuroIberia. Estoril-Portugal. May 2016
