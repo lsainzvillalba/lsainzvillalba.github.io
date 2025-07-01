@@ -45,7 +45,7 @@ redirect_from:
 * ISSN neurosurgical approaches, “Transpalpebral approach” Sainz L.V, Abarca-Olivas J, González-López P. [https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/](https://3dneuroanatomy.com/transpalpebral-orbitofrontal-approach/)
 
 ## Talks
-* Oral Presentation: "" LV.Sainz, Furlong M. International Conference on Cognitive Modeling. Tilburg-Netherlands. July 2024.
+* Oral Presentation: "A Neuro-symbolic implementation of Mouse Reward Timing Learning" LV.Sainz, Furlong M. International Conference on Cognitive Modeling. Tilburg-Netherlands. July 2024.
 * Oral Presentation: “Hydrocephalus of venous origin”. LV.Sainz. Hydrocephalus Forum Pediätrie- Tübingen-Germany. Nov 2018. 
 * Oral Presentation: “Infant external hydrocephalus is a cerebrovenous disease”. LV. Sainz, ML.Laffitte, MU.Schuhmann. European Society of Pediatric Neurosurgery Congress- Bönn-Germany. May 2018
 * Oral Presentation: “Transpalpebral Approach: anatomic study”. LV.Sainz, J. Abarca-Olivas, P. Gonzalez-Lopez. Neurosurgical International Congress- NeuroIberia. Estoril-Portugal. May 2016
