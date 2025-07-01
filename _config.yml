@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laura Sainz Villalba"
+  name             : "Dr. Laura Sainz Villalba"
   avatar           : "lala.jpg"
-  bio              : "Neurosurgeon MD FEBNS <br> Physics BS <br> PhD candidate in Computational Neuroscience"
+  bio              : "Neurosurgeon MD FEBNS <br> Physics BS <br> Dr. Sc. ETH Computational Neuroscience"
   location         : "Zurich, Switzerland"
   employer         : "ETH Zurich"
   pubmed           : # ""
